@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 08.02.2012 18:41:14 -->
+<GameData>
+	<HandicapInfos>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AdvancedStartPointsMod ="100"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set NoTechTradeModifier ="0"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set BarbarianLandTargetRange ="10"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set BarbarianSeaTargetRange ="24"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIStartingUnitMultiplier ="2"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIStartingDefenseUnits ="2"/>
+		</Update>
+
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIStartingWorkerUnits ="1"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIStartingExploreUnits ="1"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIWorkRateModifier ="100"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIUnhappinessPercent ="85"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIGrowthPercent ="50"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AITrainPercent ="35"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIConstructPercent ="45"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AICreatePercent ="45"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIBuildingCostPercent ="40"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIUnitCostPercent ="40"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIUnitSupplyPercent ="75"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIPerEraModifier ="-7"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set AIAdvancedStartPercent ="210"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_DEITY"/>
+			<Set BarbarianBonus="-30"
+				 AIBarbarianBonus="-30"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_IMMORTAL"/>
+			<Set BarbarianBonus="-20"
+				 AIBarbarianBonus="-20"/>
+		</Update>
+		<Update>
+			<Where Type="HANDICAP_EMPEROR"/>
+			<Set BarbarianBonus="-10"
+				 AIBarbarianBonus="-10"/>
+		</Update>
+	</HandicapInfos>
+	<HandicapInfo_AIFreeTechs>
+		<Delete/>
+	</HandicapInfo_AIFreeTechs>
+	<Language_de_DE>
+		<Update>
+			<Where Tag="TXT_KEY_HANDICAP_DEITY"/>
+			<Set Text="Decimatus"/>
+		</Update>
+	</Language_de_DE>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_HANDICAP_DEITY"/>
+			<Set Text="Decimatus"/>
+		</Update>
+	</Language_en_US>
+</GameData>

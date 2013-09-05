@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/29/2012 1:48:39 PM -->
+<GameData>
+
+
+<!-- Policy_ImprovementYieldChanges changed by SQL -->
+	
+<BuildingClasses>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB1</Type>
+		<DefaultBuilding>BUILDING_CCTPPB1</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB1</Description>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB2</Type>
+		<DefaultBuilding>BUILDING_CCTPPB2</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB2</Description>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB3</Type>
+		<DefaultBuilding>BUILDING_CCTPPB3</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB3</Description>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB4</Type>
+		<DefaultBuilding>BUILDING_CCTPPB4</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB4</Description>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB5</Type>
+		<DefaultBuilding>BUILDING_CCTPPB5</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB5</Description>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB6</Type>
+		<DefaultBuilding>BUILDING_CCTPPB6</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB6</Description>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB7</Type>
+		<DefaultBuilding>BUILDING_CCTPPB7</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB7</Description>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB8</Type>
+		<DefaultBuilding>BUILDING_CCTPPB8</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB8</Description>
+	</Row>
+	<Row>
+		<Type>BUILDINGCLASS_CCTPPB9</Type>
+		<DefaultBuilding>BUILDING_CCTPPB9</DefaultBuilding>
+		<Description>TXT_KEY_POLICY_CCTPPB9</Description>
+	</Row>
+</BuildingClasses>
+<Buildings>
+		<Row>
+			<Type>BUILDING_CCTPPB1</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB1</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+	</Row>
+		<Row>
+			<Type>BUILDING_CCTPPB2</Type>
+			<BuildingClass>BUILDINGCLASS_CCTPPB2</BuildingClass>
+			<!--hide this building-->
+			<PrereqTech>NULL</PrereqTech>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!--hide this building-->
+			<ExtraSpies>1</ExtraSpies>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+	<Row>
+		<Type>BUILDING_CCTPPB3</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB3</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<NumTradeRouteBonus>2</NumTradeRouteBonus>
+		<FoodKept>15</FoodKept>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+</Row>
+	<Row>
+		<Type>BUILDING_CCTPPB4</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB4</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ExtraCityHitPoints>50</ExtraCityHitPoints>
+		<Defense>50</Defense>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+</Row>
+	<Row>
+		<Type>BUILDING_CCTPPB5</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB5</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ExtraLeagueVotes>1</ExtraLeagueVotes>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<Row>
+		<Type>BUILDING_CCTPPB6</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB6</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<GlobalPopulationChange>1</GlobalPopulationChange>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<Row>
+		<Type>BUILDING_CCTPPB7</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB7</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ReligiousPressureModifier>100</ReligiousPressureModifier>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<Row>
+		<Type>BUILDING_CCTPPB8</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB8</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<ExtraMissionarySpreads>1</ExtraMissionarySpreads>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	</Row>
+	<Row>
+		<Type>BUILDING_CCTPPB9</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPPB9</BuildingClass>
+		<!--hide this building-->
+		<PrereqTech>NULL</PrereqTech>
+		<Cost>-1</Cost>
+		<FaithCost>-1</FaithCost>
+		<GreatWorkCount>-1</GreatWorkCount>
+		<!--hide this building-->
+		<SpecialistExtraCulture>1</SpecialistExtraCulture>
+		<NeverCapture>true</NeverCapture>
+		<NukeImmune>true</NukeImmune>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>19</PortraitIndex>
+	
+</Row>
+</Buildings>
+	<Policy_FreeBuildingClassCapital>
+	<Row>
+		<PolicyType>POLICY_CONSULATES</PolicyType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB2</BuildingClassType>
+	</Row>	
+	<Row>
+		<PolicyType>POLICY_LEGALISM</PolicyType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB3</BuildingClassType>
+	</Row>
+	<Row>
+		<PolicyType>POLICY_SECULARISM</PolicyType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB5</BuildingClassType>
+	</Row>
+	<Row>
+		<PolicyType>POLICY_CCTP16</PolicyType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB7</BuildingClassType>
+	</Row>	
+	<Row>
+		<PolicyType>POLICY_ORGANIZED_RELIGION</PolicyType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB8</BuildingClassType>
+	</Row>
+	<Row>
+		<PolicyType>POLICY_ARTISTIC_GENIUS</PolicyType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB9</BuildingClassType>
+	</Row>
+</Policy_FreeBuildingClassCapital>
+<Policy_FreeBuildingClass>
+	<Row>
+		<PolicyType>POLICY_LIBERTY</PolicyType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB1</BuildingClassType>
+	</Row>
+	<Row>
+		<PolicyType>POLICY_MILITARY_TRADITION</PolicyType>
+		<BuildingClassType>BUILDINGCLASS_CCTPPB4</BuildingClassType>
+	</Row>
+</Policy_FreeBuildingClass>
+
+</GameData>

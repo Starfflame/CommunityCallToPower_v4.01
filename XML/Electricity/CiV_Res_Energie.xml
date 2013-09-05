@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Resources>
+		<!-- Electricity-->
+		<Row>
+			<Type>RESOURCE_ELECTRICITY</Type>
+			<TechReveal>TECH_ELECTRICITY</TechReveal>
+			<TechCityTrade>TECH_FUTURE_TECH</TechCityTrade>
+			<AIStopTradingEra>ERA_MODERN</AIStopTradingEra>
+			<Description>TXT_KEY_RESOURCE_ELECTRICITY</Description>
+			<Help>TXT_KEY_RESOURCE_ELECTRICITY_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_RUSH</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_GOLD</ArtDefineTag>
+			<AltArtDefineTag>ART_DEF_RESOURCE_GOLD</AltArtDefineTag>
+			<AIObjective>1</AIObjective>
+			<ResourceUsage>1</ResourceUsage>
+			<PlacementOrder>7</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>70</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>75</Player>
+			<IconString>[ICON_RES_ELECTRICITY]</IconString>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>IconAtlasE</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_ELECTRICITY</IconFontTexture>
+			<IconFontTextureFile>electricity-fonticon</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>[ICON_RES_ELECTRICITY]</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_ELECTRICITY</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+	<!-- TODO: Insert table data example here.-->
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Art/IconAtlasE256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Art/IconAtlasE128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ART/IconAtlasE80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ART/IconAtlasE64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ART/IconAtlasE45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<!-- TODO: Insert table data example here.-->
+	<Language_en_US>
+		<!--Resource tags-->
+
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY">
+			<Text>Electricity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_PEDIA">
+			<Text>Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electricus ("of amber" or "like amber", from ήλεκτρον [elektron], the Greek word for "amber") to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words "electric" and "electricity", which made their first appearance in print in Thomas Browne's Pseudodoxia Epidemica of 1646</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ELECTRICITY_TEXT">
+			<Text>Electrical phenomena have been studied since antiquity, though advances in the science were not made until the seventeenth and eighteenth centuries. Practical applications for electricity however remained few, and it would not be until the late nineteenth century that engineers were able to put it to industrial and residential use. The rapid expansion in electrical technology at this time transformed industry and society. Electricity's extraordinary versatility as a means of providing energy means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and computation. Electrical power is the backbone of modern industrial society.
+           </Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_HELP">
+			<Text>Electricity is needed for the most modern buildings.</Text>
+		</Row>
+	</Language_en_US>
+	<!-- TODO: Insert table data example here.-->
+	<Building_ResourceQuantity>
+		<!-- Electricity-->
+		<Row>
+			<BuildingType>BUILDING_COAL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOLAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HYDRO_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NUCLEAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>14</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	
+
+	
+	<Building_ResourceQuantityRequirements>
+	<!--
+		<Update>
+			<Set ResourceType="RESOURCE_ELECTRICITY"/>
+			<Where BuildingType="BUILDING_FACTORY"/>
+		</Update>-->
+		
+		<Row>
+			<BuildingType>BUILDING_TOURIST_CENTER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HOTEL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+</GameData>
+<!--Have a nice day :=)-->

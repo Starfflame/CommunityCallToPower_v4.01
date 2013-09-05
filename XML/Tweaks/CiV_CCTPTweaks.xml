@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 08.02.2012 23:01:15 -->
+<GameData>
+	<!-- Wonders -->
+	<Resources>
+		<Update>
+			<Set WonderProductionMod="5"/>
+			<Where Type="RESOURCE_STONE"/>
+		</Update>
+		<!--Was 0-->
+		<Update>
+			<Set WonderProductionMod="5"/>
+			<Where Type="RESOURCE_JADE"/>
+		</Update>
+		<!--Was 0-->
+	</Resources>
+	<!-- Starting units -->
+	<Eras>
+		<Update>
+			<Set StartingExploreUnits="1"/>
+			<Where Type="ERA_ANCIENT"/>
+		</Update>
+		<Update>
+			<Set StartingWorkerUnits="1"/>
+			<Where Type="ERA_ANCIENT"/>
+		</Update>
+	</Eras>
+	<!-- no ai free technologies, every player starts with a free technology -->
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_PALACE"/>
+			<Set FreeTechs="1"/>
+		</Update>
+	</Buildings>
+	<!-- no instand heal -->
+	<UnitPromotions_UnitCombats>
+		<Delete PromotionType="PROMOTION_INSTA_HEAL"/>
+	</UnitPromotions_UnitCombats>
+</GameData>

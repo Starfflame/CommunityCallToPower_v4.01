@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 08.02.2012 20:43:40 -->
+<GameData>
+  <GoodyHuts>
+		<Update>
+			<Set Experience="15"/>
+			<Where Type="GOODY_MAP"/>
+		</Update>		
+		<Update>
+			<Set Experience="15"/>
+			<Where Type="GOODY_UPGRADE_UNIT"/>
+		</Update>
+		<Update>
+			<Set Experience="15"/>
+			<Where Type="GOODY_REVEAL_NEARBY_BARBS"/>
+		</Update>
+		<Update>
+			<Set Population="2" Experience="15"/>
+			<Where Type="GOODY_POPULATION"/>
+		</Update>
+		<Update>
+			<Set Culture="20" Experience="15"/>
+			<Where Type="GOODY_CULTURE"/>
+		</Update>
+	  <Update>
+		  <Set Population="2" Experience="15"/>
+		  <Where Type="GOODY_SETTLER"/>
+	  </Update>
+	  <Update>
+		  <Set Culture="20" Experience="15"/>
+		  <Where Type="GOODY_TECH"/>
+	  </Update>
+
+	  </GoodyHuts>
+</GameData>

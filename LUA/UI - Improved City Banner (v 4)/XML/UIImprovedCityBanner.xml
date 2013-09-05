@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_CLICK_TO_CLEAR">
+			<Text>{1_FocusType} (click to clear)</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
