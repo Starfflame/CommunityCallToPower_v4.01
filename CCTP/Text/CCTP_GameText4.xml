@@ -1,0 +1,1812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/13/2013 8:24:41 AM -->
+<GameData>
+  <!--Language_en_US-->
+	<Language_en_US>
+
+		<!--Trait
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS" />
+			<Set Text="After researching Leadership, gain [ICON_CULTURE] Culture for the empire from each enemy unit killed."/>
+		</Update>-->
+		
+		
+		<!--Buildings-->
+		<!--ShimizuMCPCT-->
+		<Row Tag="TXT_KEY_BUILDING_ShimizuMCPCT">
+			<Text>Shimizu Mega City Pyramid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_ShimizuMCPCT_HELP">
+			<Text>+200 [ICON_GOLD], +20 [ICON_FOOD], +20 [ICON_CULTURE], +20 [ICON_PRODUCTION], +10 [ICON_HAPPINESS_1], and 1 Free Great Artist in the city it was built in</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_ShimizuMCPCT_QUOTE">
+			<Text>[NEWLINE]"Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great."[NEWLINE] - Mark Twain [NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_ShimizuMCPCT_PEDIA">
+			<Text>The Shimizu Mega-City Pyramid is a proposed project for construction of a massive pyramid over Tokyo Bay in Japan. The structure would be about 14 times higher than the Great Pyramid at Giza, and would house 1,000,000 people. The structure would be 2000 meters (6,561 feet) above mean sea level, including 5 stacked trusses, each with similar dimensions to that of the great pyramid of Giza. This pyramid would help answer Tokyo's increasing lack of space, although the project would only handle 1/47th of the Greater Tokyo Area's population. [NEWLINE] The proposed structure is so large that it cannot be built with currently available materials, due to their weight. The design relies on the future availability of super-strong lightweight materials based on carbon nanotubes.[NEWLINE]Requires a nearby Ocean[NEWLINE]</Text>
+		</Row>
+
+		<!--U.N. Headquarters-->
+		<Row Tag="TXT_KEY_BUILDING_UNITED_NATIONS_HQ">
+			<Text>U.N. Headquarters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HQ_HELP">
+			<Text>Grants 3 additional Delegates in the World Congress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HQ_DESC">
+			<Text>The headquarters of the United Nations is a complex in New York City. The complex has served as the official headquarters of the United Nations since its completion in 1952. It is located in the Turtle Bay neighborhood of the borough of Manhattan, on spacious grounds overlooking the East River. Its borders are First Avenue on the west, East 42nd Street to the south, East 48th Street on the north and the East River to the east. Turtle Bay is occasionally used as a metonym for the U.N. headquarters or for the U.N. as a whole.[NEWLINE][NEWLINE]Although it is situated in New York City, the land occupied by the United Nations Headquarters and the spaces of buildings that it rents are under the sole administration of the United Nations. They are technically extraterritorial through a treaty agreement with the U.S. government. However, in exchange for local police and fire protection and other services, the U.N. agrees to acknowledge most local, state, and federal laws.[NEWLINE][NEWLINE]The United Nations Headquarters complex was constructed in stages with the core complex completed between 1948-1952. The Headquarters occupies a site beside the East River, on 17 acres (69,000 m2) of land purchased from the foremost New York real estate developer of the time, William Zeckendorf, Sr. Nelson Rockefeller arranged this purchase, after an initial offer to locate it on the Rockefeller family estate of Kykuit was rejected as being too isolated from Manhattan. The US$8.5 million purchase was then funded by his father, John D. Rockefeller, Jr., who donated it to the city. Wallace Harrison, the personal architectural adviser for the Rockefeller family, and a prominent corporate architect, served as the Director of Planning for the United Nations Headquarters. His firm, Harrison and Abramovitz, oversaw the execution of the design.</Text>
+		</Row>
+		
+		<!--LONDON_ARRAY-->
+		<Row Tag="TXT_KEY_WONDER_LONDON_ARRAY">
+			<Text>London Array</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LONDON_ARRAY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"When no wind blows, even the weathervane has character."[NEWLINE] - Stanislaw Lec[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LONDON_ARRAY_HELP">
+			<Text>+2 [ICON_PRODUCTION] Production from Sea Tiles worked by this City.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LONDON_ARRAY_DESC">
+			<Text>The London Array is an offshore wind farm under construction in the outer Thames Estuary in the United Kingdom. With 1,000 megawatt (MW) nameplate capacity, it is expected to become the world's largest offshore wind farm. The site is 28.60 km off the North Foreland on the Kent coast in the area of Long Sand and Kentish Knock, and will cover 230 km2 between Margate in Kent and Clacton in Essex. The first foundation was installed in March 2011 and phase I is expected to be completed end 2012 at a cost of £1.8 billion and will deliver a capacity of 630 MW. As of December 13th, 2012 all 175 turbines have been installed, and the first 55 have been connected to the grid. An additional 10 are expected to be connected each week.</Text>
+		</Row>
+		
+		<!--Banaue Rice Terraces-->
+		<Row Tag="TXT_KEY_RESOURCE_RICE">
+			<Text>Rice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RICE_TEXT">
+			<Text>Rice is a cereal grain produced primarily from plants of the Oryza genus. It serves as the staple crop for millions of people worldwide, mainly in areas of Eastern and Southern Asia and the West Indies, each group having their own preferences as to the preparation of the crop. Different regions also have different ways to grow Rice - in flatter areas of Japan and China, Rice is grown in large fields known as Rice Paddies, whereas in areas with less flat ground such as the mountainous areas of China or the Philippines, terraces are cut into the mountainside for Rice to be grown in, to support the wet conditions needed for the rice to grow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BANAUE">
+			<Text>Banaue Rice Terraces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BANAUE_HELP">
+			<Text>Provides +3 [ICON_RES_RICE] Rice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BANAUE_QUOTE">
+			<Text>[NEWLINE]"From wonder into wonder existence opens."[NEWLINE] - Lao Tzu[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BANAUE_PEDIA">
+			<Text>5000 feet above the sea, covering approximately 4000 square miles of Ifagao mountainside, sits the Banaue Rice Terraces. The terraces are about 2000 years old, built by the ancient indigenous Ifugao, and is still fed today by an ancient irrigation system using the rainforests above. It is common belief that the ancient terraces were built with minimal equipment and mostly by hand. It is said that putting the steps to travel the terraces end to end, they would encircle half the Equator of our Earth. The Ifugao culture is dominated by the use of rice, introducing the many rice culture feasts to the young and agricultural rites from the cultivation to consumption of rice.[NEWLINE][NEWLINE]Today the terraces are still in use, farming rice and vegetables to the Ifugao. However, more of the Ifugao find farming unappealing to other industries. This has resulted in a slow erosion of the site - the steps having been most affected - and the greater need for care of the site. In 2010 a greater problem emerged - drought - which caused the terraces to dry up entirely by March.</Text>
+		</Row>
+		
+		<!--Council of the elder-->
+		<Row Tag="TXT_KEY_BUILDING_COUNCIL">
+			<Text>Council of the elder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COUNCIL_PEDIA">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COUNCIL_STRATEGY">
+			<Text>+1 Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_COUNCIL_TEXT">
+			<Text>Elders are known by their interest in mentoring, sharing their long life experiences.</Text>
+		</Row>
+
+		<!--FOOD_STORAGE-->
+		<Row Tag="TXT_KEY_BUILDING_FOOD_STORAGE">
+			<Text>Food Storage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOOD_STORAGE_PEDIA">
+			<Text>The Food Storage is usually a cool cave or cavity, where food is kept fresh longer. Build it to increase the Growth and Wealth of your City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOOD_STORAGE_STRATEGY">
+			<Text>Provides a little boost for Food and Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FOOD_STORAGE_HELP">
+			<Text>Grants additional [ICON_FOOD] Food and [ICON_GOLD] Gold for your community.[NEWLINE]Becomes obsolete with the discovery of Pottery.</Text>
+		</Row>
+
+
+		<!--GEHEIMDIENST-->
+		<Row Tag="TXT_KEY_BUILDING_GEHEIMDIENST">
+			<Text>Secret Agency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GEHEIMDIENST_TEXT">
+			<Text>Secret Agency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GEHEIMDIENST_HELP">
+			<Text>Provides one extra spy and it grands a free unit the Spion.[NEWLINE][NEWLINE]NOTE: The buildings [COLOR_WARNING_TEXT]Military Academy[ENDCOLOR] is needed in the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GEHEIMDIENST_STRATEGY">
+			<Text>Grands one free spy that can be uses as a spy or a embassador. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GEHEIMDIENST_PEDIA">
+			<Text>In espionage jargon, an agent refers to the person who does the spying; a citizen of one country who is recruited by a second country to spy on or work against his own country or a third country. In popular usage, this term is often erroneously applied to a member of an intelligence service who recruits and handles agents; in espionage such a person is referred to as an intelligence officer, intelligence operative or case officer. There are several types of agent in use today.</Text>
+		</Row>
+		
+		<!--PLASTIKFABRIK-->
+		<Row Tag="TXT_KEY_BUILDING_PLASTIKFABRIK">
+			<Text>Plastic Factory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLASTIKFABRIK_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production in this City.[NEWLINE][NEWLINE]Requries one resource of [COLOR_WARNING_TEXT]Oil and Electricty[ENDCOLOR] to build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLASTIKFABRIK_STRATEGY">
+			<Text>Provides a boost for production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PLASTIKFABRIK_TEXT">
+			<Text>Plastics engineering encompasses the processing, design, development, and manufacture of plastics products. A plastic is a polymeric material that is in a semi-liquid state, having the property of plasticity and exhibiting flow. Plastics engineering encompasses plastics material and plastic machinery. Plastic Machinery is the general term for all types of machinery and devices used in the plastics processing industry. The nature of plastic materials poses unique challenges to an engineer. Mechanical properties of plastics are often difficult to quantify, and the plastics engineer has to design a product that meets certain specifications while keeping costs to a minimum. Other properties that the plastics engineer has to address include; outdoor weatherability, thermal properties such as upper use temperature, electrical properties, barrier properties, and resistance to chemical attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_PLASTIKFABRIK_PEDIA">
+			<Text>upps</Text>
+		</Row>
+		<!--Bonfire-->
+		<Row Tag="TXT_KEY_BUILDING_BONFIRE">
+			<Text>Bonfire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BONFIRE_PEDIA">
+			<Text>upps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BONFIRE_STRATEGY">
+			<Text>The Bonfire increases your [ICON_CITIZEN] Citizens' [ICON_HAPPINESS_1] Happiness. Build it when your city grows larger to avoid an unhappy nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BONFIRE_TEXT">
+			<Text>+1 [ICON_FOOD] Food , [ICON_PRODUCTION] Production and [ICON_HAPPINESS_1] Happiness.[NEWLINE]Becomes obsolete with the discovery of Calendar.</Text>
+		</Row>
+
+		<!--SYNTHETIC_PETROL_PLANT-->
+		<Row Tag="TXT_KEY_BUILDING_SYNTHETIC_PETROL_PLANT">
+			<Text>Synthetic Petrol Plant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNTHETIC_PETROL_PLANT_TEXT">
+			<Text>Synthetic fuel is a liquid fuel obtained from coal, natural gas, oil shale, or biomass. It may also refer to fuels derived from other solids such as plastics or rubber waste. It may also (less often) refer to gaseous fuels produced in a similar way. Common use of the term "synthetic fuel" is to describe fuels manufactured via Fischer Tropsch conversion, methanol to gasoline conversion, or direct coal liquefaction. Direct conversion of coal to synthetic fuel was originally developed in Germany. Synthetic fuel grades included, "first quality aviation gasoline", "aviation base gasoline" and "gasoline - middle oil"; "producer gas" and diesel were synthesized for fuel as well (e.g., converted armored tanks used producer gas). By early 1944, German synthetic fuel production had reached more than 124,000 barrels per day. July 2009 worldwide commercial synthetic fuels production capacity is over 240,000 barrels per day, with numerous new projects in construction or development.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNTHETIC_PETROL_PLANT_STRATEGY">
+			<Text>If you don't have enough crude Oil supply and don't wan't to start a war for it the Synthetic Petrol Plant is the solution![NEWLINE][NEWLINE]It will convert your spared Coal into high grade aviation gasoline and Diesel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNTHETIC_PETROL_PLANT_HELP">
+			<Text>This building requires 5 [ICON_RES_COAL] Coal and will provide 3 [ICON_RES_DIESEL] Diesel and 3 [ICON_RES_KEROSENE] Kerosene.</Text>
+		</Row>
+		
+		<!--STEEL_FOUNDRY-->
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FOUNDRY">
+			<Text>Steel Foundry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FOUNDRY_HELP">
+			<Text>Requires 1 [ICON_RES_COAL] Coal and 2 [ICON_RES_IRON]. Output : 5 Steel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_STEEL_FOUNDRY_STRATEGY">
+			<Text>A Steel Foundry provides provides you with the steel needed for advanced weapons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_STEEL_FOUNDRY_TEXT">
+			<Text>A foundry is a factory that produces metal castings. Metals are cast into shapes by melting them into a liquid, pouring the metal in a mold, and removing the mold material or casting after the metal has solidified as it cools. The most common metals processed are aluminum and cast iron. However, other metals, such as steel, magnesium, copper, tin, and zinc, are also used to produce castings in foundries.</Text>
+		</Row>
+
+		<!-- Update Vanilla Text -->
+		<Update>
+			<Set Text="Constructs a Kasbah, grands one free resource Manpower,also increases the amount of [ICON_FOOD] Food, [ICON_PRODUCTION] Production, and [ICON_GOLD] Gold provided by this tile. Also provides a defensive bonus."/>
+			<Where Tag="TXT_KEY_BUILD_KASBAH_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Constructs a Chateau which increases the Culture and Gold yield of the tile. Also provides a defensive bonus and one resource Manpower."/>
+			<Where Tag="TXT_KEY_BUILD_CHATEAU_HELP"/>
+		</Update>
+		<Update>
+			<Set Text="Constructs a Woodcamp."/>
+			<Where Tag="TXT_KEY_BUILD_BRAZILWOOD"/>
+		</Update>
+		
+		<!--Technologies
+		<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_HELP">
+			<Text>Constructs a Brazilwood Camp, which increases the amount of [ICON_GOLD] Gold provided by this tile, while keeping the Jungle intact. Also provides [ICON_CULTURE] Culture once Acoustics has been researched.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BRAZILWOOD_CAMP_REC">
+			<Text>It will increase the amount of [ICON_GOLD] Gold provided by this tile, while keeping the Jungle intact. Also provides [ICON_CULTURE] Culture once Acoustics has been researched.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KASBAH_HELP">
+			<Text>Constructs a Kasbah, which increases the amount of [ICON_FOOD] Food, [ICON_PRODUCTION] Production, and [ICON_GOLD] Gold provided by this tile. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KASBAH_REC">
+			<Text>It will increase the amount of [ICON_FOOD] Food, [ICON_PRODUCTION] Production, and [ICON_GOLD] Gold provided by this tile. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FEITORIA_HELP">
+			<Text>Constructs a Feitoria in this City-State's lands.  It will provide to you one copy of every Luxury Resource type connected by this City-State, regardless of your relationship with the City-State. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_FEITORIA_REC">
+			<Text>It will provide to you one copy of every Luxury Resource type connected by this City-State, regardless of your relationship with the City-State. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATEAU_HELP">
+			<Text>Constructs a Chateau which increases the Culture and Gold yield of the tile. Also provides a defensive bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATEAU_REC">
+			<Text>A Chateau must be built adjacent to a Luxury resource.  It may not be adjacent to another Chateau.[NEWLINE][NEWLINE]It will increase the Culture and Gold yield of the tile. Also provides a defensive bonus.</Text>
+		</Row>
+		
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL</Tag>
+			<Text>School</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDINGS_SCHOOL_TEXT</Tag>
+			<Text>Since the cenobitic rule of Pachomius (d. 348 AD) and the sixth-century Rule of the Master and the Rule of St. Benedict, monks and nuns were required to engage actively in reading. This reading took on the characteristics of a school that dealt with both religious and secular subjects. Beginning in the 5th century a variety of abbots took upon themselves the responsibility of educating those who entered the monastery at a young age. The earliest of these monastic schools had more of a spiritual and ascetic focus than a scriptural or theological one, but it has been suggested that these were the qualities that led many monks trained at the monastic school at Lerins to be selected as bishops.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_STRATEGY</Tag>
+			<Text>Provides a [ICON_RESEARCH] Science and [ICON_CULTURE] Culture bonus in the City it was build.[NEWLINE][NEWLINE]Requries a Libery in the City.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_HELP</Tag>
+			<Text>Provides + 2 [ICON_RESEARCH]  Science.</Text>
+		</Row>
+		-->
+		<Row>
+			<Tag>TXT_KEY_TECH_TOOLS_TITLE</Tag>
+			<Text>Tools ([ICON_PRODUCTION])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOOLS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOOLS_HELP</Tag>
+			<Text>Allows construction of the  [COLOR_POSITIVE_TEXT]Worker[ENDCOLOR] the first unit that can improve your land [ICON_PRODUCTION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOOLS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"The universe is transformation; our life is what our thoughts make it. "[NEWLINE][TAB][TAB] - Marcus Aurelius ( 121 AD ~180 AD )</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_LANGUAGE_TITLE</Tag>
+			<Text>Language ([ICON_RESEARCH])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LANGUAGE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LANGUAGE_HELP</Tag>
+			<Text> [COLOR_POSITIVE_TEXT]Language[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LANGUAGE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"There are certain emotions which can find expression only in silence."[NEWLINE][TAB][TAB] - Victor Hugo (1802 ~ 1885 )</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_LEADERSHIP_TITLE</Tag>
+			<Text>Leadership ([ICON_PRODUCTION])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LEADERSHIP_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LEADERSHIP_HELP</Tag>
+			<Text>Allows construction of the  [COLOR_POSITIVE_TEXT]Palace[ENDCOLOR] this shows your Capital on the Map.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LEADERSHIP_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"In man speaks God."[NEWLINE][TAB][TAB] -  Hesiod (c. 800 BC - c. 720 BC) </Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_FIRE_TITLE</Tag>
+			<Text>Fire ([ICON_RESEARCH]) ([ICON_PRODUCTION]) </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FIRE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FIRE_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Fire Eater[ENDCOLOR]unit, the first distance unit in the game [ICON_STRENGHT].</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FIRE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"He who knows does not speak; he who speaks does not know."[NEWLINE][TAB][TAB] - Tao Teh Ching </Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SCOUTING_TITLE</Tag>
+			<Text>Scouting ([ICON_RESEARCH])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SCOUTING_DESC</Tag>
+			<Text>Allowes the building of the Scout unit.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SCOUTING_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Scout[ENDCOLOR]unit, this is the first unit that can move two tiles per round [ICON_PRODUCTION].</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SCOUTING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Everything you can imagine is real"[NEWLINE][TAB][TAB] - Pablo Picasso</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CARAVANS_TITLE</Tag>
+			<Text>Caravans ([ICON_GOLD])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CARAVANS_DESC</Tag>
+			<Text>Grands one free Trade Route and you can now build Caravans and the Mounted Scout, a fast early scouting unit.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CARAVANS_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Caravans[ENDCOLOR] and you gain a new Trade Route.[NEWLINE][NEWLINE]Allowes you to train the [COLOR_POSITIVE_TEXT]Mounted Scout[ENDCOLOR] unit, a fast scouting unit that needs hore. [ICON_GOLD] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CARAVANS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"The dogs may bark, but the caravan moves on"[NEWLINE][TAB][TAB] - Joseph Needham</Text>
+		</Row>
+		
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_HUNTING_TITLE</Tag>
+			<Text>Hunting ([ICON_FOOD])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HUNTING_DESC</Tag>
+			<Text>Allowes you to see ([ICON_DEER]) Deer, ([ICON_COW]) Cow, and ([ICON_SHEEP]) Sheep.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HUNTING_HELP</Tag>
+			<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Hunting[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HUNTING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"The search for a scapegoat is the easiest of all hunting expeditions."[NEWLINE][TAB][TAB] - Dwight D. Eisenhower</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_COPPER_WORKING_TITLE</Tag>
+			<Text>Copper Working ([ICON_FOOD])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_COPPER_WORKING_DESC</Tag>
+			<Text>Shows Copper on the map, also allowes the construction of the building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_COPPER_WORKING_HELP</Tag>
+			<Text>Shows [COLOR_POSITIVE_TEXT]Copper[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Tin[ENDCOLOR] on the map. Allows construction of the [COLOR_POSITIVE_TEXT]Karnak[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Blacksmith[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_COPPER_WORKING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Work without love is slavery."[NEWLINE][TAB][TAB] - Mother Teresa</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_TITLE</Tag>
+			<Text>Tribal Warrior ([ICON_STRENGTH]) </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_HELP</Tag>
+			<Text>Allowes you to construct the [COLOR_POSITIVE_TEXT] Warrior[ENDCOLOR] unit, a strong common unit in the ancient era [ICON_STRENGHT] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" Aggression unchallenged is aggression unleashed."[NEWLINE][TAB][TAB] - Phaedrus (15 BC - 50 AD)</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_FOLKLORE_TITLE</Tag>
+			<Text>Folklore ([ICON_CULTURE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FOLKLORE_DESC</Tag>
+			<Text>Allowes you to construct the [COLOR_POSITIVE_TEXT]Folklore[ENDCOLOR] wich boost [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FOLKLORE_HELP</Tag>
+			<Text>Allowes you to construct the [COLOR_POSITIVE_TEXT]Folklore[ENDCOLOR] building. </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FOLKLORE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" A happy life consists in tranquillity of mind."[NEWLINE][TAB][TAB] - Cicero (106 BC - 43 BC)  </Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MUMMIFICATION_TITLE</Tag>
+			<Text>Mummification ([ICON_CULTURE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MUMMIFICATION_DESC</Tag>
+			<Text>Allowes the construction of [COLOR_POSITIVE_TEXT]Halicarnoss[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MUMMIFICATION_HELP</Tag>
+			<Text> [COLOR_POSITIVE_TEXT]Mummification[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MUMMIFICATION_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" Short is the joy that guilty pleasure brings."[NEWLINE][TAB][TAB] - Euripides (484 BC - 406 BC) </Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_RITUALS_TITLE</Tag>
+			<Text>Rituals ([ICON_CULTURE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RITUALS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RITUALS_HELP</Tag>
+			<Text>Allowes the construction of [COLOR_POSITIVE_TEXT]Shaman Hut[ENDCOLOR]  [ICON_RELIGION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RITUALS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"There is danger in both belief and unbelief."[NEWLINE][TAB][TAB] - Phaedrus (15 BC - 50 AD)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_VASALAGE_TITLE</Tag>
+			<Text>Vasalage ([ICON_CULTURE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_VASALAGE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_VASALAGE_HELP</Tag>
+			<Text>Allowes the construction of [COLOR_POSITIVE_TEXT]Weiyang Palace[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_VASALAGE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" There are two sides to every question."[NEWLINE][TAB][TAB] - Protagoras (485 BC - 421 BC)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_LODGING_TITLE</Tag>
+			<Text>Lodging ([ICON_GOLD])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LODGING_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LODGING_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Tavern[ENDCOLOR], wich boost your Happiness and Gold income, also it provides a little Tourism boost  [ICON_HAPPINESS_1] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LODGING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" Small opportunities are often the beginning of great enterprises."[NEWLINE][TAB][TAB] - Demosthenes (384 BC - 322 BC)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SLAVERY_TITLE</Tag>
+			<Text>Slavery ([ICON_PRODUCTION])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SLAVERY_DESC</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Working Camp[ENDCOLOR].</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SLAVERY_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Working Camp[ENDCOLOR], it provides a building bonus for wonders and buildings but generate negative Happiness  [ICON_PRODUCTION] .</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SLAVERY_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" The past is certain, the future obscure."[NEWLINE][TAB][TAB] - Thales (640 AD - 546 AD)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CASTE_SYSTEM_TITLE</Tag>
+			<Text>Caste System ([ICON_PRODUCTION])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CASTE_SYSTEM_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CASTE_SYSTEM_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pergamon[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CASTE_SYSTEM_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Written laws are like spiders' webs, and will like them only entangle and hold the poor and weak, while the rich and powerful will easily break through them."[NEWLINE][TAB][TAB] - Anacharsis (fl. 600 BC)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CLERGY_TITLE</Tag>
+			<Text>Clergy ([ICON_PEACE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CLERGY_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CLERGY_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Salomon Temple[ENDCOLOR].</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CLERGY_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"All that we are arises with our thoughts. With our thoughts, We make our world. "[NEWLINE][TAB][TAB] - Buddha ( 563~483 BC )</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_HOLY_ORDERS_TITLE</Tag>
+			<Text>Holy Orders ([ICON_PEACE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HOLY_ORDERS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HOLY_ORDERS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Religious Sanctuary[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HOLY_ORDERS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"What we have in us of the image of God is the love of truth and justice. "[NEWLINE][TAB][TAB] - Demosthenes (384 BC - 322 BC)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CONSULATES_TITLE</Tag>
+			<Text>Consulates ([ICON_RESEARCH])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CONSULATES_DESC</Tag>
+			<Text>Provides the ability to create [COLOR_POSITIVE_TEXT]Embassies[ENDCOLOR] in other Civilizations.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CONSULATES_HELP</Tag>
+			<Text>Provides the ability to create [COLOR_POSITIVE_TEXT]Embassies[ENDCOLOR] in other Civilizations.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CONSULATES_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"A paranoid is someone who knows a little of what's going on. "[NEWLINE][TAB][TAB] - William S. Burroughs</Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_ALPHABET_TITLE</Tag>
+			<Text>Alphabet ([ICON_RESEARCH])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ALPHABET_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ALPHABET_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Nazca Lines[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ALPHABET_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"The road to hell is paved with adverbs"[NEWLINE][TAB][TAB] - Stephen King</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CUNEIFORM_TITLE</Tag>
+			<Text>Cuneiform ([ICON_RESEARCH])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CUNEIFORM_DESC</Tag>
+			<Text>Allowes you to build the [COLOR_POSITIVE_TEXT]Codex Humurabi[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CUNEIFORM_HELP</Tag>
+			<Text> [COLOR_POSITIVE_TEXT]Cuneiform[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CUNEIFORM_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"One can have no smaller or greater mastery than mastery of oneself."[NEWLINE][TAB][TAB] - Leonardo da Vinci</Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_HEROISM_TITLE</Tag>
+			<Text>Heroism ([ICON_STRENGTH])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HEROISM_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HEROISM_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Heroic Epic[ENDCOLOR] national wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HEROISM_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" A man's character is his fate."[NEWLINE][TAB][TAB] - Heraclitus (540 BC - 480 BC)</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_GOVERNMENT_TITLE</Tag>
+			<Text>Government ([ICON_HAPPINESS_1])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_GOVERNMENT_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_GOVERNMENT_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Local Government[ENDCOLOR] building and the [COLOR_POSITIVE_TEXT]National Court[ENDCOLOR] national wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_GOVERNMENT_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"What power has law where only money rules."[NEWLINE][TAB][TAB] - Gaius Petronius Arbiter 27-66 A.D</Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_FORTIFICATION_TITLE</Tag>
+			<Text>Fortifications ([ICON_STRENGHT])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FORTIFICATION_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FORTIFICATION_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Watchtower[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Armorer[ENDCOLOR] build, also the [COLOR_POSITIVE_TEXT]Meteora[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_FORTIFICATION_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Trees, though they are cut and lopped, grow up again quickly, but if men are destroyed, it is not easy to get them again."[NEWLINE][TAB][TAB] - Pericles (490 BC - 429 BC)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITATION_TITLE</Tag>
+			<Text>Sanitations ([ICON_FOOD])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITATION_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITATION_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Sever System[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITATION_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Sometimes the questions are complicated and the answers are simple."[NEWLINE][TAB][TAB] -  Dr. Seuss</Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SIEGE_WARFARE_TITLE</Tag>
+			<Text>Siege Warfare ([ICON_STRENGTH])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SIEGE_WARFARE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SIEGE_WARFARE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Savage[ENDCOLOR] unit.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SIEGE_WARFARE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Sound intelligence promises victory in every battle."[NEWLINE][TAB][TAB] - Chuang Tzu (Zhuangzi) (369 BC - 286 BC)</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_LUXURY_GOODS_TITLE</Tag>
+			<Text>Luxury Goods ([ICON_HAPPINESS_1])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LUXURY_GOODS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LUXURY_GOODS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Cabinet[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Choclate Shop[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LUXURY_GOODS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Every luxury must be paid for, and everything is a luxury, starting with being in this world."[NEWLINE][TAB][TAB] - Cesare Pavese</Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CRAFTSMAN_TITLE</Tag>
+			<Text>Craftsman ([ICON_PRODUCTION])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRAFTSMAN_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRAFTSMAN_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Coppersmith[ENDCOLOR] building and the [COLOR_POSITIVE_TEXT]Xuankong Si[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRAFTSMAN_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" Criticism comes easier than craftsmanship."[NEWLINE][TAB][TAB] - Zeuxis (464 ~400 BC)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_TOBACCO_TRADING_TITLE</Tag>
+			<Text>Tobacco Trading ([ICON_HAPPINESS_1])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOBACCO_TRADING_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOBACCO_TRADING_HELP</Tag>
+			<Text>Shows [COLOR_POSITIVE_TEXT]Tobacco[ENDCOLOR] on the map.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOBACCO_TRADING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_TITLE</Tag>
+			<Text>Agriculture Engineering ([ICON_PRODUCTION])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Windmill[ENDCOLOR] building and the  [COLOR_POSITIVE_TEXT]Matterhorn[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MARTIAL_ARTS_TITLE</Tag>
+			<Text>Martial Arts ([ICON_STRENGHT])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MARTIAL_ARTS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MARTIAL_ARTS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Sun Tzus Art of War [ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MARTIAL_ARTS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"In war, truth is the first casualty."[NEWLINE][TAB][TAB] - Aeschylus</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_TITLE</Tag>
+			<Text>Acoustic Engineering ([ICON_CULTURE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]J.S. Bach Cathedral[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Art Academy[ENDCOLOR] national wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"I can't hear you because I can't see."[NEWLINE][TAB][TAB] - G.W. Bush </Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SACRED_ART_TITLE</Tag>
+			<Text>Sacred Art ([ICON_PEACE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SACRED_ART_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SACRED_ART_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Dome of Rock[ENDCOLOR] and [COLOR_POSITIVE_TEXT] [ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SACRED_ART_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Never do anything standing that you can do sitting, or anything sitting that you can do lying down."[NEWLINE][TAB][TAB] - Chinese Proverbs</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CARNIVAL_TITLE</Tag>
+			<Text>Carnival ([ICON_HAPPINESS_1]) ([ICON_CULTURE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CARNIVAL_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CARNIVAL_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Carnival[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Racing Carnival[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CARNIVAL_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"There is nothing more foolish than a foolish laugh. Risu inepto res ineptior nulla est"[NEWLINE][TAB][TAB] - Gaius Valerius Catullus (c.84 B.C. - c.54 B.C.) </Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_TITLE</Tag>
+			<Text>Religious Studies ([ICON_PEACE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Borobudur[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Great Temple[ENDCOLOR] national wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"I have seen further it is by standing on the shoulders of giants."[NEWLINE][TAB][TAB] - Isaac Newton</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CRUSADE_TITLE</Tag>
+			<Text>Crusade ([ICON_STRENGHT])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRUSADE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRUSADE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Alhambra[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRUSADE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"The secret of happiness is freedom. The secret of freedom is courage."[NEWLINE][TAB][TAB] - Thucydides (born ca. 460-455 B.C.)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_INVENTION_TITLE</Tag>
+			<Text>inventions ([ICON_RESEARCH])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_INVENTION_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_INVENTION_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Leonardos Workshop[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_INVENTION_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]" One good turn deserves another."[NEWLINE][TAB][TAB] - Gaius Valerius Catullus</Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANICS_TITLE</Tag>
+			<Text>Mechanics ([ICON_PRODUCTION])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANICS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANICS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Todai-Ji[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Iron Monger[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANICS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"You must have chaos within you to give birth to a dancing star"[NEWLINE][TAB][TAB] - Friedrich Nietzsche (1844~1900)</Text>
+		</Row>
+
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_TITLE</Tag>
+			<Text>Sanitary Engineering ([ICON_FOOD])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pont du Gard[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Aqueduct[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Healthy citizens are the greatest asset any country can have."[NEWLINE][TAB][TAB] - Winston Churchill</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANIC_ARTS_TITLE</Tag>
+			<Text>Mechanic Arts ([ICON_CULTURE])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANIC_ARTS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANIC_ARTS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Leshan Giant Buddha[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Buddhas of Bamiyan[ENDCOLOR] wonders.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MECHANIC_ARTS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Imgination rules the world"[NEWLINE][TAB][TAB] - Napoleon Bonaparte</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MASS_TRANSIT_TITLE</Tag>
+			<Text>Mass Transit ([ICON_PRODUCTION])  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MASS_TRANSIT_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MASS_TRANSIT_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Airport[ENDCOLOR], [COLOR_POSITIVE_TEXT]Mass Transit[ENDCOLOR] and  [COLOR_POSITIVE_TEXT]Mass Transit[ENDCOLOR] buildings. Also allowes the construction of the [COLOR_POSITIVE_TEXT]Golden Gate[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MASS_TRANSIT_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"An advanced city is not a place where the poor move about in cars, rather it’s where even the rich use public transportation"[NEWLINE][TAB][TAB] - Enrique Penalosa</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MOTION_PICTURES_TITLE</Tag>
+			<Text>Motion Pictures ([ICON_HAPPINESS_1] [ICON_CULTURE]</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MOTION_PICTURES_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MOTION_PICTURES_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Broadway[ENDCOLOR] and  [COLOR_POSITIVE_TEXT]Hollywood[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MOTION_PICTURES_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"We are rarely proud when we are alone."[NEWLINE][TAB][TAB] - Francois Marie Arouet Voltaire (1694~1778)</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_WORLD_PROJECT_TITLE</Tag>
+			<Text>Motion Pictures ([ICON_HAPPINESS_1] [ICON_CULTURE] [ICON_GOLD]</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WORLD_PROJECTS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WORLD_PROJECTS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]U.N. Headquarter[ENDCOLOR] wonder and the national wonders [COLOR_POSITIVE_TEXT]Modern Olypia[ENDCOLOR].</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WORLD_PROJECTS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Treat your friend as if he might become an enemy."[NEWLINE][TAB][TAB] - Publilius Syrus ( 46~100 B.C. )</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_ECO_SYSTEM_TITLE</Tag>
+			<Text>Eco System ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ECO_SYSTEM_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ECO_SYSTEM_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]London Array[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Off-Shore Windpark[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ECO_SYSTEM_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Climate is what we expect, weather is what we get. "[NEWLINE][TAB][TAB] - Mark Twain ( 1835 ~ 1910 )</Text>
+		</Row>
+
+		<!-- 
+		<Row>
+			<Tag>TXT_KEY_TECH_MASS_MEDIA_TITLE</Tag>
+			<Text>Mass Media ([ICON_HAPPINESS_1])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MASS_MEDIA_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MASS_MEDIA_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Television[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MASS_MEDIA_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+		</Row>-->
+
+		<Row>
+			<Tag>TXT_KEY_TECH_ENVIRONMENT_TITLE</Tag>
+			<Text>Environment ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ENVIRONMENT_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ENVIRONMENT_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Waste Plant[ENDCOLOR] and [COLOR_POSITIVE_TEXT]...[ENDCOLOR]building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ENVIRONMENT_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Nothing great was ever achieved without enthusiasm."[NEWLINE][TAB][TAB] -  Ralph Waldo Emerson</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SONAR_TITLE</Tag>
+			<Text>Sonar ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SONAR_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SONAR_HELP</Tag>
+			<Text>[COLOR_POSITIVE_TEXT]...[ENDCOLOR]</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SONAR_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth."[NEWLINE][TAB][TAB] - Jules Verne</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CITYSCAPE_TITLE</Tag>
+			<Text>Cityscape ([ICON_PRODUCTION] [ICON_CULTURE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CITYSCAPE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CITYSCAPE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Tokyo Sky Tree[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Shanghai World Financial Center[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Taipei[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CITYSCAPE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."[NEWLINE][TAB][TAB] - Albert Einstein</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_WOOD_CLEARING_TITLE</Tag>
+			<Text>Wood Clearing ([ICON_PRODUCTION] [ICON_STRENGHT])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WOOD_CLEARING_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WOOD_CLEARING_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Fire Eater[ENDCOLOR] unit.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WOOD_CLEARING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"For like a shaft, clear and cold, the thought pierced him that in the end the Shadow was only a small and passing thing: there was light and high beauty for ever beyond its reach.”"[NEWLINE][TAB][TAB] -  J.R.R. Tolkien</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SOCIAL_STRUCTURE_TITLE</Tag>
+			<Text>Social Structures ([ICON_PRODUCTION] [ICON_EXPANSION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SOCIAL_STRUCTURE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SOCIAL_STRUCTURE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Settler[ENDCOLOR] unit and the [COLOR_POSITIVE_TEXT]Council of the Elder[ENDCOLOR] buildng.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SOCIAL_STRUCTURE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Men are born to succeed, not fail."[NEWLINE][TAB][TAB] - Henry David Thoreau</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_WARFARE_TITLE</Tag>
+			<Text>Warfare ([ICON_STRENGTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WARFARE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WARFARE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Savage[ENDCOLOR] unit.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WARFARE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"So in war, the way is to avoid what is strong and to strike at what is weak."[NEWLINE][TAB][TAB] - Sun-tzu ( ~ 400 BC )</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_ART_TITLE</Tag>
+			<Text>Art ([ICON_CULTURE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ART_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ART_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Caves of Laqrox[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Rock Paintings[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ART_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"The secret to creativity is knowing how to hide your sources."[NEWLINE][TAB][TAB] - Albert Einstein ( 1879~1958 )</Text>
+		</Row>
+
+		
+		<Row>
+			<Tag>TXT_KEY_TECH_IDOLS_TITLE</Tag>
+			<Text>Idols ([ICON_CULTURE] [ICON_PEACE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_IDOLS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_IDOLS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Totem[ENDCOLOR] wonder and the [COLOR_POSITIVE_TEXT]Gaias Shrine[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_IDOLS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"An honest God’s the noblest work of man."[NEWLINE][TAB][TAB] - Samuel Butler ( 1835~1902 )</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_AESTHETICS_TITLE</Tag>
+			<Text>Aesthetics ([ICON_CULTURE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AESTHETICS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AESTHETICS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Yellow Crane Tower[ENDCOLOR]  and [COLOR_POSITIVE_TEXT]Uffizien[ENDCOLOR] wonders.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AESTHETICS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"It is better wither to be silent, or to say things of more value than silence. "[NEWLINE][TAB][TAB] - Pythagoras (582 BC - 507 BC)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_TITLE</Tag>
+			<Text>Battlefield Medicine ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Armour Workshop[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"You only live twice. Once when you're born. And once when you look death in the face."[NEWLINE][TAB][TAB] -  Ian Fleming</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CHEMICAL_REVOLUTION_TITLE</Tag>
+			<Text>Chemical Revolution ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CHEMICAL_REVOLUTION_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CHEMICAL_REVOLUTION_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pinc and white Terraces[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CHEMICAL_REVOLUTION_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"There is only one thing that makes a dream impossible to achieve: the fear of failure."[NEWLINE][TAB][TAB] - Paulo Coelho</Text>
+		</Row>
+
+		
+		<Row>
+			<Tag>TXT_KEY_TECH_HELIOCENTRISM_TITLE</Tag>
+			<Text>Heliocentrism ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HELIOCENTRISM_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HELIOCENTRISM_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Golden Pavilion[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_HELIOCENTRISM_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Men are equal; it is not birth but virtue that makes the difference. "[NEWLINE][TAB][TAB] - Francois Marie Arouet Voltaire (1694~1778)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MERCANTILISM_TITLE</Tag>
+			<Text>Mercantilism ([ICON_GOLD])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MERCANTILISM_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MERCANTILISM_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Hayi Ali Dargah[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MERCANTILISM_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own. "[NEWLINE][TAB][TAB] - Lao Tzu Te Ching</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_TITLE</Tag>
+			<Text>Mercantilism ([ICON_STRENGTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Hayi Ali Dargah[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Knowledge is power."[NEWLINE][TAB][TAB] - Sir Francis Bacon ( 1561 ~ 1626 )</Text>
+		</Row>
+
+		
+		<Row>
+			<Tag>TXT_KEY_TECH_PSYCHOLOGY_TITLE</Tag>
+			<Text>Psychology ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_PSYCHOLOGY_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_PSYCHOLOGY_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Oxfort University[ENDCOLOR] national wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_PSYCHOLOGY_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"All truth is simple ... is that not doubly a lie?"[NEWLINE][TAB][TAB] - Friedrich Nietzsche (1844~1900)</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_REFORMATION_TITLE</Tag>
+			<Text>Reformation ([ICON_PEACE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_REFORMATION_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_REFORMATION_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Notre Dame[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Wartburg[ENDCOLOR]national wonders.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_REFORMATION_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Make sure you are doing what God wants you to do--then do it with all your strength."[NEWLINE][TAB][TAB] - George Washington</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_ROMANTICISM_TITLE</Tag>
+			<Text>Romaticism ([ICON_CULTURE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ROMANTICISM_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ROMANTICISM_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Globe Theatre[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ROMANTICISM_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Love is a fruit in season at all times and within the reach of every hand."[NEWLINE][TAB][TAB] - Mother Teresa</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SCHOOLING_TITLE</Tag>
+			<Text>Schooling ([ICON_Research])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SCHOOLING_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SCHOOLING_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]School[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SCHOOLING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"The only true wisdom is in knowing you know nothing."[NEWLINE][TAB][TAB] -  Socrates</Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_TITLE</Tag>
+			<Text>Social Classes ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Angkor Wat[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"It may be true that the law cannot make a man love me, but it can keep him from lynching me, and I think that's pretty important."[NEWLINE][TAB][TAB] - Martin Luther King, Jr. </Text>
+		</Row>
+
+		<Row>
+			<Tag>TXT_KEY_TECH_AVIATION_TITLE</Tag>
+			<Text>Aviation ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AVIATION_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AVIATION_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Gateway Arch[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_AVIATION_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"What kind of man would live where there is no daring? I don't believe in taking foolish chances but nothing can be accomplished without taking any chance at all."[NEWLINE][TAB][TAB] - Charles Lindbergh</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_CRIMINOLOGY_TITLE</Tag>
+			<Text>Criminology ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRIMINOLOGY_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRIMINOLOGY_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Police Station[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Prison[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_CRIMINOLOGY_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Men stumble over the truth from time to time, but most pick themselves up and hurry off as if nothing happened."[NEWLINE][TAB][TAB] - Sir Winston Churchill</Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_TITLE</Tag>
+			<Text>Energy Buildings ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Coal Plant[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Windturbines[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."[NEWLINE][TAB][TAB] - Nikola Tesla</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_EXPLORATIONX_TITLE</Tag>
+			<Text>Exploration ([ICON_CULTURE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_EXPLORATIONX_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_EXPLORATIONX_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Hotel[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_EXPLORATIONX_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Man, of all the animals, is probably the only one to regard himself as a great delicacy."[NEWLINE][TAB][TAB] - Jacques Cousteau</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_TITLE</Tag>
+			<Text>Macro Engineering ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Mega Dam[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."[NEWLINE][TAB][TAB] - Elbert Hubbard ( 1856~1915 )</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MANEUVER_TITLE</Tag>
+			<Text>Maneuver ([ICON_STRENGTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MANEUVER_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MANEUVER_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Pena National Palace[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MANEUVER_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Know how sublime a thing is to suffer and be strong. "[NEWLINE][TAB][TAB] - Henry Wadsworth Longfellow ( 1807 ~ 1882 )</Text>
+		</Row>
+		<!-- 
+		<Row>
+			<Tag>TXT_KEY_TECH_MEDICINE</Tag>
+			<Text>Medicine ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MEDICINE_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MEDICINE_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Red Cross[ENDCOLOR] wonder and [COLOR_POSITIVE_TEXT]Drug Store[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MEDICINE_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+		</Row>-->
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_TITLE</Tag>
+			<Text>Motorized Transportations ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Aircraft Plant[ENDCOLOR], [COLOR_POSITIVE_TEXT]Auto Plant[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Industrial Shipyard[ENDCOLOR] buildings.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones."[NEWLINE][TAB][TAB] - Albert Einstein</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_NATIONAL_ARTS_TITLE</Tag>
+			<Text>National Arts ([ICON_CULTURE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NATIONAL_ARTS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NATIONAL_ARTS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Louvre[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Smithonian Institut[ENDCOLOR] wonders.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NATIONAL_ARTS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Art is the lie that enables us to realize the truth."[NEWLINE][TAB][TAB] -  Pablo Picasso</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_PHOTOGRAPHY_TITLE</Tag>
+			<Text>Photography ([ICON_CULTURE])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_PHOTOGRAPHY_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_PHOTOGRAPHY_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Neuschwanstein[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_PHOTOGRAPHY_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Life doesn't imitate art, it imitates bad television."[NEWLINE][TAB][TAB] - Woody Allen</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_TITLE</Tag>
+			<Text>Railway Company ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Darjeeling Himalayan Railway[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"No company is preferable to bad. We are more apt to catch the vices of others than virtues, as disease is far more contagious than health."[NEWLINE][TAB][TAB] - Charles Caleb Colton</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SKYSCRAPER_TITLE</Tag>
+			<Text>Skyscraper ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SKYSCRAPER_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SKYSCRAPER_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Empire State Building[ENDCOLOR] [COLOR_POSITIVE_TEXT]Petronas Towers[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Rockefeller Center[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SKYSCRAPER_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Imagination is more important than knowledge."[NEWLINE][TAB][TAB] - Albert Einstein ( 1879~1958 )</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_THERMODYNAMICS_TITLE</Tag>
+			<Text>Thermodynamics ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_THERMODYNAMICS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_THERMODYNAMICS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Geotherm Plant[ENDCOLOR] building.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_THERMODYNAMICS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"We don't know a millionth of one percent about anything."[NEWLINE][TAB][TAB] - Thomas Edison</Text>
+		</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_TOURISTICS_TITLE</Tag>
+			<Text>Touristics ([ICON_PRODUCTION])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOURISTICS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOURISTICS_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Aquarium[ENDCOLOR] , [COLOR_POSITIVE_TEXT]Whale Watching[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Safari[ENDCOLOR] building. It grands yields +1 [ICON_TOURISM] Tourism for each World Wonder you own. </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_TOURISTICS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"That it was all started by a mouse."[NEWLINE][TAB][TAB] - Walt Disney</Text>
+		</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_WAR_GAMES_TITLE</Tag>
+			<Text>War Games ([ICON_STRENGTH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WAR_GAMES_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WAR_GAMES_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]WAR College[ENDCOLOR] national wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_WAR_GAMES_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"When you see something that is technically sweet, you go ahead and do it and argue about what to do about it only after you've had your technical success. That is the way it was with the atomic bomb."[NEWLINE][TAB][TAB] -  by J. Robert Oppenheimer</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_SPACE_RESEARCH_TITLE</Tag>
+			<Text>Space Research ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SPACE_RESEARCH_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SPACE_RESEARCH_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Hubble[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Arecibo Obervatory[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_SPACE_RESEARCH_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]"Equipped with his five senses, man explores the universe around him and calls the adventure Science."[NEWLINE][TAB][TAB] - Edwin Hubble</Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_NATIONALISM_TITLE</Tag>
+			<Text>Nationalism ([ICON_RESEARCH])</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NATIONALISM_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NATIONALISM_HELP</Tag>
+			<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Hermitage[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Arecibo Obervatory[ENDCOLOR] wonder.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NATIONALISM_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+		</Row>
+
+
+
+		<!--Units-->
+		<Row Tag="TXT_KEY_CIVIL_UNIT_KNIGHT_TEMPLAR">
+			<Text>Created By Indiestone Nexus Buddy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KNIGHT_TEMPLAR">
+			<Text>Knight_templar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STRATEGY_UNIT_KNIGHT_TEMPLAR">
+			<Text>Created By Indiestone Nexus Buddy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HELP_UNIT_KNIGHT_TEMPLAR">
+			<Text>Created By Indiestone Nexus Buddy.</Text>
+		</Row>
+		
+		<!--RESOURCES-->
+		<!--STEEL-->
+		<Row Tag="TXT_KEY_RESOURCE_STEEL">
+			<Text>Steel</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STEEL_HELP">
+			<Text>To get Steel you a supply of Iron and Coal and a Steel Foundry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL">
+			<Text>Steel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TEXT">
+			<Text>Steel is an alloy that consists mostly of iron and has a carbon content between 0.2% and 2.1% by weight, depending on the grade.[NEWLINE] Though steel had been produced by various inefficient methods long before the Renaissance, its use became more common after more-efficient production methods were devised in the 17th century. With the invention of the Bessemer process in the mid-19th century, steel became an inexpensive mass-produced material. (Source : Wikipedia)</Text>
+		</Row>
+
+		<!--SPION-->
+		<Row Tag="TXT_KEY_UNIT_SPION">
+			<Text>Spion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SPION">
+			<Text>Spion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SPION_TEXT">
+			<Text>Spion.</Text>
+		</Row>
+
+		<!--SAVAGE-->
+		<Row Tag="TXT_KEY_UNIT_SAVAGE">
+			<Text>Savage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SAVAGE_STRATEGY">
+			<Text>The Savage is particularly useful when attacking enemy settlements. Armed with half a tree as weapon, he can easily bring down enemy fortifications.[NEWLINE]Protect it from attacks, as it is weak when defending.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_SAVAGE">
+			<Text>An exceptionally big and strong human specimen with a bad temper.[NEWLINE][NEWLINE]Receives a bonus when attacking Cities, but also a penalty when defending.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SAVAGE_TEXT">
+			<Text>In times when weapons were dull and military strategy was virtually non-existent, muscle power was the main tool of winning a fight. Especially strong and big men made good front-line warriors, who often fought in reckless rage. Nearly unstoppable when attacking, the Berserk fighters often did not watch their backs and were susceptible to strategic attacks.</Text>
+		</Row>
+		
+		<!--FIRE_EATER-->
+		<Row Tag="TXT_KEY_UNIT_FIRE_EATER">
+			<Text>Fire Eater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FIRE_EATER_STRATEGY">
+			<Text>A useful unit for all purposes, the Fire Eater is the first ranged unit in the Prehistoric Era. Use it to burn down cities or attack enemies, but protect it from melee attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FIRE_EATER">
+			<Text>Prehistoric ranged unit, throws burning torches at the enemy.[NEWLINE]Has a short range, but may move after attacking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FIRE_EATER_TEXT">
+			<Text>After the discovery of Fire as a beneficial tool for cooking and surviving harsh winters, Man also found out about its destructive power. Fire was - and still is - a powerful element that can burn skin and turn buildings to cinders. For millennia, armies have made use of torches and burning projectiles of all sizes against their enemies.</Text>
+		</Row>
+		
+		<!--CAVEMAN-->
+		<Row Tag="TXT_KEY_UNIT_CAVEMAN">
+			<Text>Caveman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CAVEMAN_STRATEGY">
+			<Text>Take club, use club on enemy's head. All a Caveman needs to know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CAVEMAN">
+			<Text>The earliest and weakest military unit in the game.[NEWLINE][NEWLINE]Not very smart, but determined.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CAVEMAN_TEXT">
+			<Text>In the earliest times of humanity, the Homo Sapiens Sapiens often used to live in caves, which provided shelter and protection before the invention of hut and house building. Armed with rudimentary weapons, like clubs or stones, they fought small battles between communities, or amongst themselves.</Text>
+		</Row>
+
+		<!--Process-->
+		<!--Growth-->
+		<Row Tag="TXT_KEY_PROCESS_GROWTH">
+			<Text>Growth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_GROWTH_STRATEGY">
+			<Text>Provides a Food boost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROCESS_GROWTH_HELP">
+			<Text>Allowes to transform 25% of the [ICON_PRODUCTION] Production output of the city into [ICON_FOOD] Food</Text>
+		</Row>
+		</Language_en_US>
+  <!--Have a nice day-->
+  
+</GameData>

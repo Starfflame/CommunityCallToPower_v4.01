@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by gilgamesch on 9/12/2013 4:01:41 PM -->
+<GameData>
+  <!--Processes-->
+<Processes>
+<Row>
+	<Type>PROCESS_GROWTH</Type>
+	<Description>TXT_KEY_PROCESS_GROWTH</Description>
+	<Help>TXT_KEY_PROCESS_GROWTH_HELP</Help>
+	<Strategy>TXT_KEY_PROCESS_GROWTH_STRATEGY</Strategy>
+	<TechPrereq>TECH_AGRICULTURAL_REVOLUTION</TechPrereq>
+	<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+	<PortraitIndex>0</PortraitIndex>
+</Row>
+</Processes>
+<Process_Flavors>
+<Row>
+	<ProcessType>PROCESS_GROWTH</ProcessType>
+	<FlavorType>FLAVOR_GROWTH</FlavorType>
+	<Flavor>5</Flavor>
+</Row>
+</Process_Flavors>
+<Process_ProductionYields>
+<Row>
+	<ProcessType>PROCESS_GROWTH</ProcessType>
+	<YieldType>YIELD_FOOD</YieldType>
+	<Yield>25</Yield>
+</Row>
+</Process_ProductionYields>
+  <!--Have a nice Day:=)-->
+</GameData>

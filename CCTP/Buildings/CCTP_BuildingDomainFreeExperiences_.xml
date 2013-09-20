@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 9:41:14 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_HARBOR</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUN_TZU_ART_OF_WAR</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WAR_COLLEGE</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>20</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WAR_COLLEGE</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>20</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WAR_COLLEGE</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>20</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NAVAL_BASE</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AIRBASE</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

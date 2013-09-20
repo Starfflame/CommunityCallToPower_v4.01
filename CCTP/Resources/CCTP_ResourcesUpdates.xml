@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/7/2013 8:36:54 AM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<Resources>
+  
+		<Update>
+			<Set TechCityTrade="TECH_HUNTING" TechReveal="TECH_HUNTING" />
+			<Where Type="RESOURCE_COW"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_HUNTING" TechReveal="TECH_HUNTING" />
+			<Where Type="RESOURCE_DEER"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_TOBACCO_TRADING" TechReveal="TECH_TOBACCO_TRADING" />
+			<Where Type="RESOURCE_TOBACCO"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_COPPER_WORKING" TechReveal="TECH_COPPER_WORKING" />
+			<Where Type="RESOURCE_COPPER"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_IRON_WORKING" TechReveal="TECH_IRON_WORKING" />
+			<Where Type="RESOURCE_IRON"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_WOODWORKING" TechReveal="TECH_WOODWORKING" />
+			<Where Type="RESOURCE_WOOD"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MASONRY" TechReveal="TECH_RAW_MATERIALS" />
+			<Where Type="RESOURCE_STONE"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MASONRY" TechReveal="TECH_RAW_MATERIALS" />
+			<Where Type="RESOURCE_JADE"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_FARMERS_MARKETS" TechReveal="TECH_FARMERS_MARKETS" />
+			<Where Type="RESOURCE_CORN"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ECONOMY_OF_SCALE" TechReveal="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_BERRIES"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ECONOMY_OF_SCALE" TechReveal="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_MANGO"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ECONOMY_OF_SCALE" TechReveal="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_BARLEY"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ECONOMY_OF_SCALE" TechReveal="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_FLAX"/>
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ECONOMY_OF_SCALE" TechReveal="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_BANANA" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SHIPBUILDING" TechReveal="TECH_SHIPBUILDING" />
+			<Where Type="RESOURCE_WHALE" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SAILING" TechReveal="TECH_SAILING" />
+			<Where Type="RESOURCE_PEARLS" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SAILING" TechReveal="TECH_SAILING" />
+			<Where Type="RESOURCE_CRAB" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SAILING" TechReveal="TECH_SAILING" />
+			<Where Type="RESOURCE_FISH" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_SAILING" TechReveal="TECH_SAILING" />
+			<Where Type="RESOURCE_SQUID" />
+		</Update>
+	
+		<Update>
+			<Set TechCityTrade="TECH_HUNTING" TechReveal="TECH_HUNTING" />
+			<Where Type="RESOURCE_TRUFFLES" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_ECONOMY_OF_SCALE" TechReveal="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="RESOURCE_CITRUS" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MINING" TechReveal="TECH_MINING" />
+			<Where Type="RESOURCE_GOLD" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MINING" TechReveal="TECH_MINING" />
+			<Where Type="RESOURCE_SILVER" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_RAW_MATERIALS" TechReveal="TECH_RAW_MATERIALS" />
+			<Where Type="RESOURCE_GEMS" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_TRAPPING" TechReveal="TECH_TRAPPING" />
+			<Where Type="RESOURCE_IVORY" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_TRAPPING" TechReveal="TECH_TRAPPING" />
+			<Where Type="RESOURCE_FUR" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_LEADERSHIP" TechReveal="TECH_LEADERSHIP" />
+			<Where Type="RESOURCE_DYE" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_LEADERSHIP" TechReveal="TECH_LEADERSHIP" />
+			<Where Type="RESOURCE_COTTON" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MYSTICISM" TechReveal="TECH_MYSTICISM" />
+			<Where Type="RESOURCE_WINE" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_MYSTICISM" TechReveal="TECH_MYSTICISM" />
+			<Where Type="RESOURCE_INCENSE" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_RITUALS" TechReveal="TECH_RITUALS" />
+			<Where Type="RESOURCE_SILK" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_RITUALS" TechReveal="TECH_RITUALS" />
+			<Where Type="RESOURCE_SPICES" />
+		</Update>
+		<Update>
+			<Set TechCityTrade="TECH_HUNTING" TechReveal="TECH_HUNTING" />
+			<Where Type="RESOURCE_SHEEP" />
+		</Update>
+	</Resources>
+</GameData>

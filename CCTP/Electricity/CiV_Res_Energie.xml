@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Resources>
+
+	</Resources>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_DIESEL</ResourceType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_KEROSENE</ResourceType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OLIVE_OIL</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_ELECTRICITY</IconFontTexture>
+			<IconFontTextureFile>electricity-fonticon</IconFontTextureFile>
+		</Row>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_OLIVES</IconFontTexture>
+			<IconFontTextureFile>olives-fonticons</IconFontTextureFile>
+		</Row>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_OLIVE_OIL</IconFontTexture>
+			<IconFontTextureFile>oliveoil-fonticons</IconFontTextureFile>
+		</Row>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_PLATINUM</IconFontTexture>
+			<IconFontTextureFile>platinum-fonticons</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>[ICON_RES_ELECTRICITY]</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_ELECTRICITY</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_RES_OLIVES</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_OLIVES</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_RES_OLIVE_OIL</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_OLIVE_OIL</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+		<Row>
+			<IconName>ICON_RES_PLATINUM</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_PLATINUM</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+	<!-- TODO: Insert table data example here.-->
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>Art/IconAtlasE256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>Art/IconAtlasE128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ART/IconAtlasE80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ART/IconAtlasE64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>IconAtlasE</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ART/IconAtlasE45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<Resource_TerrainBooleans>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+	</Resource_TerrainBooleans>
+	<Resource_FeatureBooleans>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<FeatureType>FEATURE_FLOOD_PLAINS</FeatureType>
+		</Row>
+	</Resource_FeatureBooleans>
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_PLANTATION</ImprovementType>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CITADEL</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MANUFACTORY</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+	<!-- TODO: Insert table data example here.-->
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_OLIVES</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Improvement_ResourceType_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MINE</ImprovementType>
+			<ResourceType>RESOURCE_PLATINUM</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Improvement_ResourceType_Yields>
+	<Language_en_US>
+		<!--Resource tags-->
+		<!--ELECTRICITY-->
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY">
+			<Text>Electricity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_PEDIA">
+			<Text>Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word electricus ("of amber" or "like amber", from ήλεκτρον [elektron], the Greek word for "amber") to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words "electric" and "electricity", which made their first appearance in print in Thomas Browne's Pseudodoxia Epidemica of 1646</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ELECTRICITY_TEXT">
+			<Text>Electrical phenomena have been studied since antiquity, though advances in the science were not made until the seventeenth and eighteenth centuries. Practical applications for electricity however remained few, and it would not be until the late nineteenth century that engineers were able to put it to industrial and residential use. The rapid expansion in electrical technology at this time transformed industry and society. Electricity's extraordinary versatility as a means of providing energy means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and computation. Electrical power is the backbone of modern industrial society.
+           </Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ELECTRICITY_HELP">
+			<Text>Electricity is needed for the most modern buildings.</Text>
+		</Row>
+		
+		<!--DIESEL-->
+		<Row Tag="TXT_KEY_RESOURCE_DIESEL_HELP">
+			<Text>Fuel for land and sea units. A supply of Oil and an Oil Refinery are required to get Diesel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DIESEL">
+			<Text>Diesel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DIESEL_TEXT">
+			<Text>Diesel fuel in general is any liquid fuel used in diesel engines. The most common is a specific fractional distillate of petroleum fuel oil, but alternatives that are not derived from petroleum, such as biodiesel, biomass to liquid (BTL) or gas to liquid (GTL) diesel, are increasingly being developed and adopted. (Source : Wikipedia)
+			</Text>
+		</Row>
+		
+		<!--KEROSENE-->
+		<Row Tag="TXT_KEY_RESOURCE_KEROSENE_HELP">
+			<Text>Aviation fuel. A supply of Oil and an Oil Refinery are required to get Kerosene.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_KEROSENE">
+			<Text>Kerosene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_KEROSENE_TEXT">
+			<Text>Kerosene, sometimes spelled kerosine in scientific and industrial usage, also known as paraffin in the United Kingdom and South Africa, is a combustible hydrocarbon liquid. Kerosene is widely used to power jet-engined aircraft (jet fuel) and some rockets, but is also commonly used as a heating fuel and for fire toys such as poi. In parts of Asia, where the price of kerosene is subsidized, it fuels outboard motors rigged on small fishing craft (Source : Wikipedia).
+			</Text>
+		</Row>
+		
+		<!--<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE1">
+			<Text>Technology Required to See</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE2">
+			<Text>Location</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE3">
+			<Text>Improvement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE4">
+			<Text>Yield Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_STEEL_TITLE5">
+			<Text>Allows</Text>
+		</Row>-->
+	</Language_en_US>
+	<!-- TODO: Insert table data example here.-->
+	<Building_ResourceQuantity>
+		<!-- Electricity-->
+		<Row>
+			<BuildingType>BUILDING_KOHLEKRAFTWERK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOLAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HYDRO_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_NUCLEAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>14</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+	
+
+	
+	<Building_ResourceQuantityRequirements>
+	<!--
+		<Update>
+			<Set ResourceType="RESOURCE_ELECTRICITY"/>
+			<Where BuildingType="BUILDING_FACTORY"/>
+		</Update>-->
+		
+		<Row>
+			<BuildingType>BUILDING_TOURIST_CENTER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>3</Cost>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HOTEL</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Cost>2</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>
+</GameData>
+<!--Have a nice day :=)-->

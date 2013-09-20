@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/3/2013 7:58:31 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+	<Specialists>
+		<Row>
+			<Type>SPECIALIST_PRIEST</Type>
+			<Description>TXT_KEY_SPECIALIST_PRIEST</Description>
+			<Strategy>TXT_KEY_SPECIALIST_PRIEST_STRATEGY</Strategy>
+			<GreatPeopleTitle>TXT_KEY_SPECIALIST_PRIEST_TITLE</GreatPeopleTitle>
+			<Visible>true</Visible>
+			<Cost>0</Cost>
+			<GreatPeopleUnitClass>UNITCLASS_PROPHET</GreatPeopleUnitClass>
+			<GreatPeopleRateChange>3</GreatPeopleRateChange>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
+		</Row>
+	</Specialists>
+	
+<!-- Enter your Game Data here. -->	
+	<SpecialistYields>
+		<Row>
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</SpecialistYields>
+	
+ <!-- Enter your Game Data here. -->
+	<SpecialistFlavor>
+		
+	</SpecialistFlavor>
+
+</GameData>

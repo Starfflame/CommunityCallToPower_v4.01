@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 8:30:00 PM -->
+<GameData>
+	<Buildings>
+  <!-- TODO: Insert table creation example here. -->
+	<!-- FaithBuildings-->
+	<!-- INQUISATION-->
+	<Row>
+		<Type>BUILDING_INQUISATION</Type>
+		<BuildingClass>BUILDINGCLASS_INQUISATION</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>250</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<Description>TXT_KEY_BUILDING_INQUISATION</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_INQUISATION_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_INQUISATION_STRATEGY</Strategy>
+		<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>50</PortraitIndex>
+		<!-- Start with 50 -->
+		<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<!-- works only with whowards dll mod-->
+		<Happiness>-1</Happiness>
+	</Row>
+
+	<!-- NATURHEILIGTUM-->
+	<Row>
+		<Type>BUILDING_NATURHEILIGTUM</Type>
+		<BuildingClass>BUILDINGCLASS_NATURHEILIGTUM</BuildingClass>
+		<Cost>-1</Cost>>
+		<FaithCost>185</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief><SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<!-- <NearbyMountainRequired>true</NearbyMountainRequired> -->
+		<Help>TXT_KEY_BUILDING_NATURHEILIGTUM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NATURHEILIGTUM</Description>
+		<Strategy>TXT_KEY_BUILDING_NATURHEILIGTUM_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_NATURHEILIGTUM_PEDIA</Civilopedia>
+		<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>5</PortraitIndex>
+	</Row>
+
+	<!-- RELIGIONSSCHULE -->
+	<Row>
+		<Type>BUILDING_RELIGIONSSCHULE</Type>
+		<BuildingClass>BUILDINGCLASS_RELIGIONSSCHULE</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>295</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<UnmoddedHappiness>1</UnmoddedHappiness>
+		<Help>TXT_KEY_BUILDING_RELIGIONSSCHULE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_RELIGIONSSCHULE</Description>
+		<Strategy>TXT_KEY_BUILDING_RELIGIONSSCHULE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_RELIGIONSSCHULE_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+		<IconAtlas>ICON_GOT_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>6</PortraitIndex>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<!-- Start with 50 
+	<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>-->
+		<!-- Start with 50 -->
+	</Row>
+
+	<!--ZIRKURAT-->
+	<Row>
+		<Type>BUILDING_ZIRKURAT</Type>
+		<BuildingClass>BUILDINGCLASS_ZIRKURAT</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>200</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<Help>TXT_KEY_BUILDING_ZIRKURAT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ZIRKURAT</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ZIRKURAT_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_ZIRKURAT_STRATEGY</Strategy>
+		<ArtDefineTag>MUD_PYRAMID_MOSQUE</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<Happiness>1</Happiness>
+		<IconAtlas>BW_ATLAS_SPIRAL_MINARET</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>0</PortraitIndex>
+	</Row>
+
+	<!--Ceromonial Rites-->
+	<Row>
+		<Type>BUILDING_BESTATTUNGEN</Type>
+		<BuildingClass>BUILDINGCLASS_BESTATTUNGEN</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>225</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<GreatPersonExpendGold>5</GreatPersonExpendGold>
+		<Help>TXT_KEY_BUILDING_BESTATTUNGEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BESTATTUNGEN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_BESTATTUNGEN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_BESTATTUNGEN_STRATEGY</Strategy>
+		<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<MinAreaSize>-1</MinAreaSize>
+		<Happiness>1</Happiness>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<PortraitIndex>36</PortraitIndex>
+		<NeverCapture>true</NeverCapture>
+	</Row>
+
+	<!--Temple Goddeds of Love-->
+	<Row>
+		<Type>BUILDING_LIEBE</Type>
+		<BuildingClass>BUILDINGCLASS_LIEBE</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>225</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<Help>TXT_KEY_BUILDING_LIEBE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_LIEBE</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_LIEBE_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_LIEBE_STRATEGY</Strategy>
+		<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<FoodKept>20</FoodKept>
+		<Happiness>1</Happiness>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>35</PortraitIndex>
+		<!-- Start with 50 
+	<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>-->
+		<!-- Start with 50 -->
+	</Row>
+
+	<!-- Mars -->
+	<Row>
+		<Type>BUILDING_MARS</Type>
+		<BuildingClass>BUILDINGCLASS_MARS</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>245</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<UnmoddedHappiness>1</UnmoddedHappiness>
+		<Help>TXT_KEY_BUILDING_MARS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MARS</Description>
+		<Strategy>TXT_KEY_BUILDING_MARS_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_MARS_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>56</PortraitIndex>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<!-- Start with 50 -->
+		<MutuallyExclusiveGroup>51</MutuallyExclusiveGroup>
+		<!-- Start with 50 -->
+	</Row>
+
+	<!-- Mammon -->
+	<Row>
+		<Type>BUILDING_MAMMON</Type>
+		<BuildingClass>BUILDINGCLASS_MAMMON</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>235</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<Help>TXT_KEY_BUILDING_MAMMON_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MAMMON</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MAMMON_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_MAMMON_STRATEGY</Strategy>
+		<ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<Happiness>1</Happiness>
+		<IconAtlas>ICON_GOT</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>48</PortraitIndex>
+	</Row>
+
+	<!--RELIGIÖSES_HEILIGTUM-->
+	<Row>
+		<Type>BUILDING_RELIGIÖSES_HEILIGTUM</Type>
+		<BuildingClass>BUILDINGCLASS_RELIGIÖSES_HEILIGTUM</BuildingClass>
+		<Cost>1000</Cost>
+		<PolicyBranchType>POLICY_BRANCH_PIETY</PolicyBranchType>
+		<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
+		<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+		<GreatWorkCount>2</GreatWorkCount>
+		<!--
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>-->
+		<Help>TXT_KEY_BUILDING_RELIGIÖSES_HEILIGTUM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_RELIGIÖSES_HEILIGTUM</Description>
+		<Civilopedia>TXT_KEY_BUILDING_RELIGIÖSES_HEILIGTUM_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_RELIGIÖSES_HEILIGTUM_STRATEGY</Strategy>
+		<ArtDefineTag>TEMPLE</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<NumCityCostMod>30</NumCityCostMod>
+		<HolyCity>true</HolyCity>
+		<LandmarksTourismPercent>25</LandmarksTourismPercent>
+		<GreatWorksTourismModifier>25</GreatWorksTourismModifier>
+		<ExtraMissionarySpreads>100</ExtraMissionarySpreads>
+		<ReligiousPressureModifier>50</ReligiousPressureModifier>
+		<UnmoddedHappiness>3</UnmoddedHappiness>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<PortraitIndex>31</PortraitIndex>
+		<ThemingBonusHelp>TXT_KEY_RELIGIÖSES_HEILIGTUM_THEMING_BONUS_HELP</ThemingBonusHelp>
+	</Row>
+
+
+
+	<!--NATIONALER_SHRINE-->
+	<Row>
+		<Type>BUILDING_NATIONALER_SHRINE</Type>
+		<BuildingClass>BUILDINGCLASS_NATIONALER_SHRINE</BuildingClass>
+		<Cost>450</Cost>
+		<NumCityCostMod>30</NumCityCostMod>
+		<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
+		<NukeImmune>true</NukeImmune>
+		<Description>TXT_KEY_BUILDING_NATIONALER_SHRINE</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_NATIONALER_SHRINE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NATIONALER_SHRINE_STRATEGY</Strategy>
+		<Help>TXT_KEY_BUILDING_NATIONALER_SHRINE_HELP</Help>
+		<ArtDefineTag>MONASTERY</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<PortraitIndex>28</PortraitIndex>
+	</Row>
+	</Buildings>
+
+	<!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

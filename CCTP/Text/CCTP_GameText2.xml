@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/11/2013 6:57:10 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<Language_en_US>
+		<!--Buildings-->
+
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL</Tag>
+			<Text>School</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIV5_BUILDINGS_SCHOOL_TEXT</Tag>
+			<Text>Since the cenobitic rule of Pachomius (d. 348 AD) and the sixth-century Rule of the Master and the Rule of St. Benedict, monks and nuns were required to engage actively in reading. This reading took on the characteristics of a school that dealt with both religious and secular subjects. Beginning in the 5th century a variety of abbots took upon themselves the responsibility of educating those who entered the monastery at a young age. The earliest of these monastic schools had more of a spiritual and ascetic focus than a scriptural or theological one, but it has been suggested that these were the qualities that led many monks trained at the monastic school at Lerins to be selected as bishops.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_STRATEGY</Tag>
+			<Text>Provides a [ICON_RESEARCH] Science and [ICON_CULTURE] Culture bonus in the City it was build.[NEWLINE][NEWLINE]Requries a Libery in the City.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_SCHOOL_HELP</Tag>
+			<Text>Provides + 2 [ICON_RESEARCH]  Science.</Text>
+		</Row>
+
+
+
+
+
+		<!--Technologies-->
+	<Row>
+		<Tag>TXT_KEY_TECH_TOOLS_TITLE</Tag>
+		<Text>Tools ([ICON_PRODUCTION])  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOOLS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOOLS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Tools[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOOLS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_LANGUAGE_TITLE</Tag>
+		<Text>Language ([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LANGUAGE_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LANGUAGE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Language[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LANGUAGE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_LEADERSHIP_TITLE</Tag>
+			<Text>Leadership ([ICON_PRODUCTION)  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LEADERSHIP_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LEADERSHIP_HELP</Tag>
+			<Text> [COLOR_POSITIVE_TEXT]Leadership[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_LEADERSHIP_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+		</Row>	
+		
+		
+		
+		
+	<Row>
+		<Tag>TXT_KEY_TECH_FIRE_TITLE</Tag>
+		<Text>Fire ([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FIRE_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FIRE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Fire[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FIRE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SCOUTING_TITLE</Tag>
+		<Text>Scouting ([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SCOUTING_DESC</Tag>
+		<Text>Allowes the building of the Scout unit.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SCOUTING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Scouting[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SCOUTING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_CARAVANS_TITLE</Tag>
+		<Text>Caravans ([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CARAVANS_DESC</Tag>
+		<Text>Grands one free Trade Route and you can now build Caravans and the Mounted Scout, a fast early scouting unit.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CARAVANS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Caravans[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CARAVANS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_HUNTING_TITLE</Tag>
+		<Text>Hunting ([ICON_FOOD)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HUNTING_DESC</Tag>
+		<Text>Allowes you to see ([ICON_DEER) Deer, ([ICON_COW) Cow, and ([ICON_SHEEP) Sheep.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HUNTING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Hunting[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HUNTING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_COPPER_WORKING_TITLE</Tag>
+		<Text>Copper Working ([ICON_FOOD)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_COPPER_WORKING_DESC</Tag>
+		<Text>Shows Copper on the map, also allowes the construction of the building.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_COPPER_WORKING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Copper Working[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_COPPER_WORKING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_TITLE</Tag>
+		<Text>Tribal Warrior ([ICON_STRENGTH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Tribal Warrior[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TRIBAL_WARRIOR_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+	<Row>
+		<Tag>TXT_KEY_TECH_FOLKLORE_TITLE</Tag>
+		<Text>Folklore ([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FOLKLORE_DESC</Tag>
+		<Text>Allowes you to construct the [COLOR_POSITIVE_TEXT]Folklore[ENDCOLOR] wich boost Culture.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FOLKLORE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Folklore[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FOLKLORE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MUMMIFICATION_TITLE</Tag>
+		<Text>Mummification ([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MUMMIFICATION_DESC</Tag>
+		<Text>Allowes the construction of[COLOR_POSITIVE_TEXT]Halicarnoss[ENDCOLOR].</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MUMMIFICATION_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Mummification[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MUMMIFICATION_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_RITUALS_TITLE</Tag>
+		<Text>Rituals ([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RITUALS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RITUALS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Rituals[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RITUALS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_VASALAGE_TITLE</Tag>
+		<Text>Vasalage ([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_VASALAGE_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_VASALAGE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Vasalage[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_VASALAGE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+	
+	<Row>
+		<Tag>TXT_KEY_TECH_LODGING_TITLE</Tag>
+		<Text>Lodging ([ICON_GOLD)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LODGING_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LODGING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Lodging[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LODGING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SLAVERY_TITLE</Tag>
+		<Text>Slavery ([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SLAVERY_DESC</Tag>
+		<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Working Camp[ENDCOLOR].</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SLAVERY_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Slavery[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SLAVERY_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_CASTE_SYSTEM_TITLE</Tag>
+		<Text>Caste System ([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CASTE_SYSTEM_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CASTE_SYSTEM_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Caste System[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CASTE_SYSTEM_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_CLERGY_TITLE</Tag>
+		<Text>Clergy ([ICON_PEACE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CLERGY_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CLERGY_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Clergy[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CLERGY_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_HOLY_ORDERS_TITLE</Tag>
+		<Text>Holy Orders ([ICON_PEACE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HOLY_ORDERS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HOLY_ORDERS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Holy Orders[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HOLY_ORDERS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_CONSULATES_TITLE</Tag>
+		<Text>Consulates ([ICON_DIPLOMACY)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CONSULATES_DESC</Tag>
+		<Text>Provides the ability to create embassies in other Civilizations.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CONSULATES_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Consulates[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CONSULATES_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_ALPHABET_TITLE</Tag>
+		<Text>Alphabet ([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ALPHABET_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ALPHABET_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Alphabet[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ALPHABET_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_CUNEIFORM_TITLE</Tag>
+		<Text>Cuneiform ([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CUNEIFORM_DESC</Tag>
+		<Text>Allowes you to build the [COLOR_POSITIVE_TEXT]Codex Humurabi[ENDCOLOR].</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CUNEIFORM_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Cuneiform[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CUNEIFORM_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_HEROISM_TITLE</Tag>
+		<Text>Heroism ([ICON_STRENGHT)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HEROISM_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HEROISM_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Heroism[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HEROISM_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_GOVERNMENT_TITLE</Tag>
+		<Text>Government ([ICON_HAPPINESS_1)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_GOVERNMENT_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_GOVERNMENT_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Government[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_GOVERNMENT_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_FORTIFICATION_TITLE</Tag>
+		<Text>Fortifications ([ICON_STRENGHT)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FORTIFICATION_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FORTIFICATION_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Fortifications[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_FORTIFICATION_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SANITATION_TITLE</Tag>
+		<Text>Sanitations ([ICON_FOOD)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SANITATION_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SANITATION_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Sanitation[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SANITATION_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SIEGE_WARFARE_TITLE</Tag>
+		<Text>Siege Warfare ([ICON_STRENGHT)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SIEGE_WARFARE_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SIEGE_WARFARE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Siege Warfare[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SIEGE_WARFARE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_LUXURY_GOODS_TITLE</Tag>
+		<Text>Luxury Goods ([ICON_HAPPINESS_1)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LUXURY_GOODS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LUXURY_GOODS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Luxury Goods[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_LUXURY_GOODS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_CRAFTSMAN_TITLE</Tag>
+		<Text>Craftsman ([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRAFTSMAN_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRAFTSMAN_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Craftsman[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRAFTSMAN_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_TOBACCO_TRADING_TITLE</Tag>
+		<Text>Tobacco Trading ([ICON_HAPPINESS_1)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOBACCO_TRADING_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOBACCO_TRADING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Tobacco Trading[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOBACCO_TRADING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_TITLE</Tag>
+		<Text>Agriculture Engineering ([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Agriculture Engineering[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_ENGINEERING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+		<!--double entry
+	<Row>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_SCIENCES_TITLE</Tag>
+		<Text>Agriculture Sciences ([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_SCIENCES_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_SCIENCES_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Agriculture Sciences[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AGRICULTURAL_SCIENCES_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+-->
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MARTIAL_ARTS_TITLE</Tag>
+		<Text>Martial Arts ([ICON_STRENGHT)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MARTIAL_ARTS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MARTIAL_ARTS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Martial Arts[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MARTIAL_ARTS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_TITLE</Tag>
+		<Text>Acoustic Engineering ([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Acoustic Engineering[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ACOUSTICS_ENGINEERING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SACRED_ART_TITLE</Tag>
+		<Text>Sacred Art ([ICON_PEACE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SACRED_ART_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SACRED_ART_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Sacred Art[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SACRED_ART_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_CARNIVAL_TITLE</Tag>
+		<Text>Carnival ([ICON_HAPPINESS_1)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CARNIVAL_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CARNIVAL_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Carnival[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CARNIVAL_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_TITLE</Tag>
+		<Text>Religious Studies ([ICON_PEACE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Religious Studies[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RELIGIOUS_STUDIES_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_CRUSADE_TITLE</Tag>
+		<Text>Crusade ([ICON_STRENGHT)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRUSADE_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRUSADE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Crusade[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRUSADE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_INVENTION_TITLE</Tag>
+		<Text>inventions ([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_INVENTION_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_INVENTION_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Inventions[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_INVENTION_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MECHANICS_TITLE</Tag>
+		<Text>Mechanics ([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MECHANICS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MECHANICS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Mechanics[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MECHANICS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_TITLE</Tag>
+		<Text>Sanitary Engineering ([ICON_FOOD)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Sanitary Engineering[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SANITARY_ENGINEERING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MECHANIC_ARTS_TITLE</Tag>
+		<Text>Mechanic Arts ([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MECHANIC_ARTS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MECHANIC_ARTS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Mechanic Arts[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MECHANIC_ARTS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_AESTHETICS_TITLE</Tag>
+		<Text>Aesthetics([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AESTHETICS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AESTHETICS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Aesthetics[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AESTHETICS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_TITLE</Tag>
+		<Text>Social Classes([ICON_HAPPINESS_1)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Social Classes[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SOCIAL_CLASSES_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_PSYCHOLOGY_TITLE</Tag>
+		<Text>Psychology([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_PSYCHOLOGY_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_PSYCHOLOGY_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Psychology[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_PSYCHOLOGY_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_REFORMATION_TITLE</Tag>
+		<Text>Reformation([ICON_PEACE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_REFORMATION_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_REFORMATION_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Reformation[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_REFORMATION_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MERCANTILISM_TITLE</Tag>
+		<Text>Mercantilism([ICON_GOLD)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MERCANTILISM_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MERCANTILISM_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Mercantilism[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MERCANTILISM_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_ROMANTICISM_TITLE</Tag>
+		<Text>Romaticism([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ROMANTICISM_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ROMANTICISM_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Romaticism[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ROMANTICISM_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_HELIOCENTRISM_TITLE</Tag>
+		<Text>Heliocentrism([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HELIOCENTRISM_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HELIOCENTRISM_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Heliocentrism[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_HELIOCENTRISM_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_TITLE</Tag>
+		<Text>Battlefield Medicine([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Battlefield Medicine[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_BATTLEFIELD_MEDICINE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+		<!-- 
+	<Row>
+		<Tag>TXT_KEY_TECH_TELEGRAPH_TITLE</Tag>
+		<Text>Telegraph([ICON_GOLD)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TELEGRAPH_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TELEGRAPH_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Telegraph[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TELEGRAPH_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+ -->
+
+	<Row>
+		<Tag>TXT_KEY_TECH_PHOTOGRAPHY_TITLE</Tag>
+		<Text>Photography([ICON_HAPPINESS_1)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_PHOTOGRAPHY_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_PHOTOGRAPHY_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Photography[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_PHOTOGRAPHY_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_TITLE</Tag>
+		<Text>Railway Company([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Railway Company[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_RAILWAY_COMPANY_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MEDICINE_TITLE</Tag>
+		<Text>Medicine([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MEDICINE_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MEDICINE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Medicine[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MEDICINE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+	<Row>
+		<Tag>TXT_KEY_TECH_EXPLORATIONX_TITLE</Tag>
+		<Text>Exploration([ICON_GOLD)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_EXPLORATIONX_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_EXPLORATIONX_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Exploration[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_EXPLORATIONX_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_TITLE</Tag>
+		<Text>Macro Engineering([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Macro Engineering[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MACRO_ENGINEERING_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+	
+	
+	<Row>
+		<Tag>TXT_KEY_TECH_CRIMINOLOGY_TITLE</Tag>
+		<Text>Criminology([ICON_HAPPINESS_1)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRIMINOLOGY_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRIMINOLOGY_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Criminology[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_CRIMINOLOGY_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SKYSCRAPER_TITLE</Tag>
+		<Text>Skyscraper([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SKYSCRAPER_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SKYSCRAPER_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Skyscraper[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SKYSCRAPER_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+	
+	
+	
+	<Row>
+		<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_TITLE</Tag>
+		<Text>Motorized Transportation([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Motorized Transportation[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MOTORIZED_TRANSPORTATIONS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_TOURISTIC_TITLE</Tag>
+		<Text>Touristic([ICON_HAPPINES_1)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOURISTIC_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOURISTIC_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Touristic[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_TOURISTIC_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_NATIONAL_ARTS_TITLE</Tag>
+		<Text>National Arts([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_NATIONAL_ARTS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_NATIONAL_ARTS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]National Arts[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_NATIONAL_ARTS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_THERMODYNAMICS_TITLE</Tag>
+		<Text>Thermodynamics([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_THERMODYNAMICS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_THERMODYNAMICS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Thermodynamics[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_THERMODYNAMICS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_TITLE</Tag>
+		<Text>Energy Buildings([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Energy Buildings[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ENERGY_BUILDINGS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_WAR_GAMES_TITLE</Tag>
+		<Text>War Games([ICON_STRENGHT)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_WAR_GAMES_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_WAR_GAMES_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]War Games[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_WAR_GAMES_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_AVIATION_TITLE</Tag>
+		<Text>Aviation([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AVIATION_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AVIATION_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Aviation[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_AVIATION_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MANEUVER_WARFARE_TITLE</Tag>
+		<Text>Maneuver Warfare([ICON_STRENGHT)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MANEUVER_WARFARE_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MANEUVER_WARFARE_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Maneuver Warfare[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MANEUVER_WARFARE_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MASS_TRANSIT_TITLE</Tag>
+		<Text>Mass Transit([ICON_PRODUCTION)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MASS_TRANSIT_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MASS_TRANSIT_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Mass Transit[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MASS_TRANSIT_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_ENVIRONMENT_TITLE</Tag>
+		<Text>Environment([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ENVIRONMENT_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ENVIRONMENT_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Environment[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ENVIRONMENT_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_ECO_SYSTEM_TITLE</Tag>
+		<Text>Eco System([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ECO_SYSTEM_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ECO_SYSTEM_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Eco System[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_ECO_SYSTEM_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_MOTION_PICTURES_TITLE</Tag>
+		<Text>Motion Pictures([ICON_CULTURE)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MOTION_PICTURES_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MOTION_PICTURES_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Motion Pictures[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_MOTION_PICTURES_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_WORLD_PROJECTS_TITLE</Tag>
+		<Text>World Projects([ICON_DIPOLOMACY)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_WORLD_PROJECTS_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_WORLD_PROJECTS_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]World Projects[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_WORLD_PROJECTS_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SPACE_RESEARCH_TITLE</Tag>
+		<Text>Space Research([ICON_RESEARCH)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SPACE_RESEARCH_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SPACE_RESEARCH_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Space Research[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SPACE_RESEARCH_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+	<Row>
+		<Tag>TXT_KEY_TECH_SONAR_TITLE</Tag>
+		<Text>Sonar([ICON_STRENGHT)  </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SONAR_DESC</Tag>
+		<Text>.</Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SONAR_HELP</Tag>
+		<Text> [COLOR_POSITIVE_TEXT]Sonar[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+	</Row>
+	<Row>
+		<Tag>TXT_KEY_TECH_SONAR_QUOTE</Tag>
+		<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+	</Row>
+
+
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_RUBBER_TITLE</Tag>
+			<Text>Rubber([ICON_GOLD)  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RUBBER_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RUBBER_HELP</Tag>
+			<Text> [COLOR_POSITIVE_TEXT]Rubber[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_RUBBER_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+		</Row>
+
+
+		<Row>
+			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_TITLE</Tag>
+			<Text>Naval Tactics([ICON_GOLD)  </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_DESC</Tag>
+			<Text>.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_HELP</Tag>
+			<Text> [COLOR_POSITIVE_TEXT]Rubber[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_TECH_NAVAL_TACTICS_QUOTE</Tag>
+			<Text>[NEWLINE][TAB][TAB]""[NEWLINE][TAB][TAB] - </Text>
+		</Row>
+
+
+
+	</Language_en_US>
+
+	<!-- Enter your Game Data here. -->
+  
+</GameData>

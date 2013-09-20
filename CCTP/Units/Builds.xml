@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 11/10/2010 1:43:09 PM -->
+<GameData>
+	<!--Builds-->
+	<Builds>
+		<Row>
+			<Type>BUILD_PRESERVE</Type>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Time>800</Time>
+			<ImprovementType>IMPROVEMENT_PRESERVE</ImprovementType>
+			<Description>TXT_KEY_BUILD_PRESERVE</Description>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Q</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>3</IconIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_PONTOON_BRIDGE</Type>
+			<PrereqTech>TECH_ENGINEERING</PrereqTech>
+			<ImprovementType>IMPROVEMENT_PONTOON_BRIDGE</ImprovementType>
+			<Description>TXT_KEY_BUILD_PONTOON_BRIDGE</Description>
+			<Help>TXT_KEY_BUILD_PONTOON_BRIDGE_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_PONTOON_BRIDGE_REC</Recommendation>
+			<Water>true</Water>
+			<CanBeEmbarked>true</CanBeEmbarked>
+			<Kill>true</Kill>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_Z</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>CIVIL_WAR_UNIT_ACTION_ICON_ATLAS</IconAtlas>
+		</Row>
+		<Update>
+			<Set PrereqTech="TECH_TRADING" />
+			<Where Type="BUILD_TRADING_POST" />
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_ECONOMY_OF_SCALE" />
+			<Where Type="BUILD_PLANTATION" />
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_MINING" />
+			<Where Type="BUILD_REMOVE_JUNGLE" />
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_AGRICULTURAL_REVOLUTION" />
+			<Where Type="BUILD_POLDER" />
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_FORTIFICATION" />
+			<Where Type="BUILD_FORT" />
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_HEROISM" />
+			<Where Type="BUILD_FEITORIA" />
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_FEUDALISM" />
+			<Where Type="BUILD_CHATEAU" />
+		</Update>
+		<Update>
+			<Set PrereqTech="WOOD_CLEARING" />
+			<Where Type="BUILD_REMOVE_JUNGLE" />
+		</Update>
+	</Builds>
+	
+	<BuildFeatures>
+		<Update>
+			<Set PrereqTech="TECH_WOOD_CLEARING"/>
+			<Where BuildType="BUILD_REMOVE_JUNGLE" />
+		</Update>
+		<Update>
+			<Set PrereqTech="TECH_WOOD_CLEARING"/>
+			<Where BuildType="BUILD_WOOD_CLEARING" />
+		</Update>
+	<!--Production="20"
+		<Update>
+			<Set PrereqTech="TECH_WOOD_CLEARING"/>
+			<Where BuildType="BUILD_REMOVE_JUNGLE" />
+		</Update>
+		<Update>
+			<Set  PrereqTech="TECH_WOOD_CLEARING"/>
+			<Where BuildType="BUILD_REMOVE_FOREST" />
+		</Update> -->
+	</BuildFeatures>
+	
+	<!--TechTimeChanges-->
+	<Build_TechTimeChanges>
+		<Row>
+			<BuildType>BUILD_RAILROAD</BuildType>
+			<TechType>TECH_RAILWAY_COMPANY</TechType>
+			<TimeChange>-100</TimeChange>
+		</Row>
+		<Row>
+			<BuildType>BUILD_MINE</BuildType>
+			<TechType>TECH_CHEMICAL_REVOLUTION</TechType>
+			<TimeChange>-50</TimeChange>
+		</Row>
+		<Row>
+			<BuildType>BUILD_FARM</BuildType>
+			<TechType>TECH_AGRICULTURAL_ENGINEERING</TechType>
+			<TimeChange>-50</TimeChange>
+		</Row>
+	</Build_TechTimeChanges>
+	<!--Have a nice Day:=)-->
+</GameData>

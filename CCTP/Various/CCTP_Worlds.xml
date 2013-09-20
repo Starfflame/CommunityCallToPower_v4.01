@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch -->
+<GameData>
+	<!--Worlds-->
+	<Worlds>
+		<Update>
+			<Set FogTilesPerBarbarianCamp="10" NumCitiesTechCostMod="10" NumCitiesPolicyCostMod="20" ResearchPercent="120"/>
+			<Where Type="WORLDSIZE_DUEL"/>
+		</Update>
+		<Update>
+			<Set FogTilesPerBarbarianCamp="14" NumCitiesTechCostMod="10" NumCitiesPolicyCostMod="20" ResearchPercent="120"/>
+			<Where Type="WORLDSIZE_TINY"/>
+		</Update>
+		<Update>
+			<Set FogTilesPerBarbarianCamp="18" NumCitiesTechCostMod="10" NumCitiesPolicyCostMod="20" ResearchPercent="120"/>
+			<Where Type="WORLDSIZE_SMALL"/>
+		</Update>
+		<Update>
+			<Set FogTilesPerBarbarianCamp="22" NumCitiesTechCostMod="9" NumCitiesPolicyCostMod="20" ResearchPercent="130"/>
+			<Where Type="WORLDSIZE_STANDARD"/>
+		</Update>
+		<Update>
+			<Set FogTilesPerBarbarianCamp="26" NumCitiesTechCostMod="7" NumCitiesPolicyCostMod="15" NumCitiesUnhappinessPercent="100" ResearchPercent="140"/>
+			<Where Type="WORLDSIZE_LARGE"/>
+		</Update>
+		<Update>
+			<Set FogTilesPerBarbarianCamp="28" NumCitiesTechCostMod="6" NumCitiesPolicyCostMod="10" NumCitiesUnhappinessPercent="80" ResearchPercent="150"/>
+			<Where Type="WORLDSIZE_HUGE"/>
+		</Update>
+	</Worlds>
+	<!--Have a nice Day:=)-->
+</GameData>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/12/2013 11:50:04 AM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<Building_ThemingBonuses>
+
+		<!-- CCTP buildings-->
+		<Row>
+			<BuildingType>BUILDING_MISSIONARY_CHURCH</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_MISSIONARY_CHURCH</Description>
+			<Bonus>3</Bonus>
+			<UniqueEras>true</UniqueEras>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>3</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ARCHIMEDES_LAB</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_ARCHIMEDES_LAB</Description>
+			<Bonus>4</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeEqualArtArtifact>true</MustBeEqualArtArtifact>
+			<RequiresSamePlayer>true</RequiresSamePlayer>
+			<AIPriority>4</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CRYSTAL_CATHEDRAL</BuildingType>
+			<Description>TXT_KEY_THEMING_CRYSTAL_CATHEDRAL</Description>
+			<Bonus>4</Bonus>
+			<UniqueEras>true</UniqueEras>
+			<MustBeEqualArtArtifact>true</MustBeEqualArtArtifact>
+			<RequiresAnyButOwner>true</RequiresAnyButOwner>
+			<AIPriority>4</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SHAKESPEARE_THEATER</BuildingType>
+			<Description>TXT_KEY_THEMING_SHAKESPEARE_THEATER</Description>
+			<Bonus>5</Bonus>
+			<UniqueEras>true</UniqueEras>
+			<MustBeArt>true</MustBeArt>
+			<RequiresSamePlayer>true</RequiresSamePlayer>
+			<AIPriority>5</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BACH_CATHEDRAL</BuildingType>
+			<Description>TXT_KEY_THEMING_BACH_CATHEDRAL</Description>
+			<Bonus>6</Bonus>
+			<UniqueEras>true</UniqueEras>
+			<MustBeArt>true</MustBeArt>
+			<RequiresSamePlayer>true</RequiresSamePlayer>
+			<AIPriority>5</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LEONARDO_WORKSHOP</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_LEONARDO_WORKSHOP</Description>
+			<Bonus>4</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeEqualArtArtifact>true</MustBeEqualArtArtifact>
+			<RequiresSamePlayer>true</RequiresSamePlayer>
+			<AIPriority>4</AIPriority>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GULOU</BuildingType>
+			<Description>TXT_KEY_THEMING_BONUS_GULOU</Description>
+			<Bonus>2</Bonus>
+			<SameEra>true</SameEra>
+			<MustBeEqualArtArtifact>true</MustBeEqualArtArtifact>
+			<RequiresSamePlayer>true</RequiresSamePlayer>
+			<AIPriority>2</AIPriority>
+		</Row>
+	</Building_ThemingBonuses>
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

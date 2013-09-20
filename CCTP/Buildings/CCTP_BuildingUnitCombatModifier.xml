@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/6/2013 9:36:42 PM -->
+<GameData>
+  <!--UnitCombatProductionModifiers-->
+	<Building_UnitCombatProductionModifiers>
+		<Delete BuildingType="BUILDING_STABLE" UnitCombatType="UNITCOMBAT_MOUNTED"/>
+		<Row>
+			<BuildingType>BUILDING_SUOMENLINNA</BuildingType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<Modifier>50</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SUOMENLINNA</BuildingType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<Modifier>50</Modifier>
+		</Row>
+	</Building_UnitCombatProductionModifiers>
+  
+  
+  <!--Have a nice Day:=)-->
+  
+</GameData>

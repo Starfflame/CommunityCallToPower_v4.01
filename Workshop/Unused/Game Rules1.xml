@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 9:45:22 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<!--Hidden Buildings-->
+	<!--Venice-->
+	<!--Normal Buildings-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!--UB-->
+	<!--Venice1-->
+	<Row>
+		<Type>BUILDING_CCTPVENICE1</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPVENICE1</BuildingClass>
+		<Cost>400</Cost>
+		<PrereqTech>TECH_CURRENCY</PrereqTech>
+		<Description>TXT_KEY_BUILDING_CCTPVENICE1</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPVENICE1_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_CCPTVENICE1_STRATEGY</Strategy>
+		<Help>TXT_KEY_BUILDING_CCPTVENICE1_HELP</Help>
+		<ArtDefineTag>TEMPLE</ArtDefineTag>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<EnhancedYieldTech>TECH_RADIO</EnhancedYieldTech>
+		<TechEnhancedTourism>1</TechEnhancedTourism>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<TradeRouteRecipientBonus>4</TradeRouteRecipientBonus>
+		<TradeRouteTargetBonus>2</TradeRouteTargetBonus>
+		<MinAreaSize>-1</MinAreaSize>
+		<Happiness>1</Happiness>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<IconAtlas>EXPANSION_SCEN_BUILDING_ATLAS</IconAtlas>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+
+	<!--Venice 2-->
+	<Row>
+		<Type>BUILDING_CCTPVENICE2</Type>
+		<BuildingClass>BUILDINGCLASS_CCTPVENICE2</BuildingClass>
+		<Cost>500</Cost>
+		<PrereqTech>TECH_CODE_OF_LAWS</PrereqTech>
+		<Description>TXT_KEY_BUILDING_CCTPVENICE2</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CCTPVENICE2_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_CCTPVENICE2_STRATEGY</Strategy>
+		<Help>TXT_KEY_BUILDING_CCTPVENICE2_HELP</Help>
+		<ArtDefineTag>TEMPLE</ArtDefineTag>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<FoodKept>20</FoodKept>
+		<EnhancedYieldTech>TECH_RADIO</EnhancedYieldTech>
+		<TechEnhancedTourism>2</TechEnhancedTourism>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
+		<GreatWorkCount>1</GreatWorkCount>
+		<MinAreaSize>-1</MinAreaSize>
+		<Happiness>1</Happiness>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<IconAtlas>EXPANSION_SCEN_BUILDING_ATLAS</IconAtlas>
+		<PortraitIndex>9</PortraitIndex>
+	</Row>
+
+	<!-- FaithBuildings-->
+	<!-- INQUISATION-->
+	<Row>
+		<Type>BUILDING_INQUISATION</Type>
+		<BuildingClass>BUILDINGCLASS_INQUISATION</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>250</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<Description>TXT_KEY_BUILDING_INQUISATION</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_INQUISATION_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_INQUISATION_STRATEGY</Strategy>
+		<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>50</PortraitIndex>
+		<!-- Start with 50 -->
+		<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<!-- works only with whowards dll mod-->
+		<Happiness>-1</Happiness>
+	</Row>
+
+	<!-- NATURHEILIGTUM-->
+	<Row>
+		<Type>BUILDING_NATURHEILIGTUM</Type>
+		<BuildingClass>BUILDINGCLASS_NATURHEILIGTUM</BuildingClass>
+		<Cost>-1</Cost>>
+		<FaithCost>185</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief><SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<!-- <NearbyMountainRequired>true</NearbyMountainRequired> -->
+		<Help>TXT_KEY_BUILDING_NATURHEILIGTUM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_NATURHEILIGTUM</Description>
+		<Strategy>TXT_KEY_BUILDING_NATURHEILIGTUM_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_NATURHEILIGTUM_PEDIA</Civilopedia>
+		<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>5</PortraitIndex>
+	</Row>
+
+	<!-- RELIGIONSSCHULE -->
+	<Row>
+		<Type>BUILDING_RELIGIONSSCHULE</Type>
+		<BuildingClass>BUILDINGCLASS_RELIGIONSSCHULE</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>295</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<UnmoddedHappiness>1</UnmoddedHappiness>
+		<Help>TXT_KEY_BUILDING_RELIGIONSSCHULE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_RELIGIONSSCHULE</Description>
+		<Strategy>TXT_KEY_BUILDING_RELIGIONSSCHULE_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_RELIGIONSSCHULE_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+		<IconAtlas>ICON_GOT_2</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>6</PortraitIndex>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<!-- Start with 50 
+	<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>-->
+		<!-- Start with 50 -->
+	</Row>
+
+	<!--ZIRKURAT-->
+	<Row>
+		<Type>BUILDING_ZIRKURAT</Type>
+		<BuildingClass>BUILDINGCLASS_ZIRKURAT</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>200</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<Help>TXT_KEY_BUILDING_ZIRKURAT_HELP</Help>
+		<Description>TXT_KEY_BUILDING_ZIRKURAT</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ZIRKURAT_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_ZIRKURAT_STRATEGY</Strategy>
+		<ArtDefineTag>MUD_PYRAMID_MOSQUE</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<Happiness>1</Happiness>
+		<IconAtlas>BW_ATLAS_SPIRAL_MINARET</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>0</PortraitIndex>
+	</Row>
+
+	<!--Ceromonial Rites-->
+	<Row>
+		<Type>BUILDING_BESTATTUNGEN</Type>
+		<BuildingClass>BUILDINGCLASS_BESTATTUNGEN</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>225</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<GreatPersonExpendGold>5</GreatPersonExpendGold>
+		<Help>TXT_KEY_BUILDING_BESTATTUNGEN_HELP</Help>
+		<Description>TXT_KEY_BUILDING_BESTATTUNGEN</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_BESTATTUNGEN_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_BESTATTUNGEN_STRATEGY</Strategy>
+		<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<MinAreaSize>-1</MinAreaSize>
+		<Happiness>1</Happiness>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<PortraitIndex>36</PortraitIndex>
+		<NeverCapture>true</NeverCapture>
+	</Row>
+
+	<!--Temple Goddeds of Love-->
+	<Row>
+		<Type>BUILDING_LIEBE</Type>
+		<BuildingClass>BUILDINGCLASS_LIEBE</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>225</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<Help>TXT_KEY_BUILDING_LIEBE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_LIEBE</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_LIEBE_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_LIEBE_STRATEGY</Strategy>
+		<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<FoodKept>20</FoodKept>
+		<Happiness>1</Happiness>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>35</PortraitIndex>
+		<!-- Start with 50 
+	<MutuallyExclusiveGroup>50</MutuallyExclusiveGroup>-->
+		<!-- Start with 50 -->
+	</Row>
+
+	<!-- Mars -->
+	<Row>
+		<Type>BUILDING_MARS</Type>
+		<BuildingClass>BUILDINGCLASS_MARS</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>245</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<UnmoddedHappiness>1</UnmoddedHappiness>
+		<Help>TXT_KEY_BUILDING_MARS_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MARS</Description>
+		<Strategy>TXT_KEY_BUILDING_MARS_STRATEGY</Strategy>
+		<Civilopedia>TXT_KEY_BUILDING_MARS_PEDIA</Civilopedia>
+		<MinAreaSize>-1</MinAreaSize>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>56</PortraitIndex>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<!-- Start with 50 -->
+		<MutuallyExclusiveGroup>51</MutuallyExclusiveGroup>
+		<!-- Start with 50 -->
+	</Row>
+
+	<!-- Mammon -->
+	<Row>
+		<Type>BUILDING_MAMMON</Type>
+		<BuildingClass>BUILDINGCLASS_MAMMON</BuildingClass>
+		<Cost>-1</Cost>
+		<FaithCost>235</FaithCost>
+		<UnlockedByBelief>true</UnlockedByBelief>
+		<Help>TXT_KEY_BUILDING_MAMMON_HELP</Help>
+		<Description>TXT_KEY_BUILDING_MAMMON</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MAMMON_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_MAMMON_STRATEGY</Strategy>
+		<ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<Happiness>1</Happiness>
+		<IconAtlas>ICON_GOT</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>48</PortraitIndex>
+	</Row>
+
+	<!--RELIGIÖSES_HEILIGTUM-->
+	<Row>
+		<Type>BUILDING_RELIGIÖSES_HEILIGTUM</Type>
+		<BuildingClass>BUILDINGCLASS_RELIGIÖSES_HEILIGTUM</BuildingClass>
+		<Cost>1000</Cost>
+		<PolicyBranchType>POLICY_BRANCH_PIETY</PolicyBranchType>
+		<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
+		<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+		<GreatWorkCount>2</GreatWorkCount>
+		<!--
+			<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>-->
+		<Help>TXT_KEY_BUILDING_RELIGIÖSES_HEILIGTUM_HELP</Help>
+		<Description>TXT_KEY_BUILDING_RELIGIÖSES_HEILIGTUM</Description>
+		<Civilopedia>TXT_KEY_BUILDING_RELIGIÖSES_HEILIGTUM_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_RELIGIÖSES_HEILIGTUM_STRATEGY</Strategy>
+		<ArtDefineTag>TEMPLE</ArtDefineTag>
+		<NukeImmune>true</NukeImmune>
+		<NumCityCostMod>30</NumCityCostMod>
+		<HolyCity>true</HolyCity>
+		<LandmarksTourismPercent>25</LandmarksTourismPercent>
+		<GreatWorksTourismModifier>25</GreatWorksTourismModifier>
+		<ExtraMissionarySpreads>100</ExtraMissionarySpreads>
+		<ReligiousPressureModifier>50</ReligiousPressureModifier>
+		<UnmoddedHappiness>3</UnmoddedHappiness>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<NeverCapture>true</NeverCapture>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<PortraitIndex>31</PortraitIndex>
+		<ThemingBonusHelp>TXT_KEY_RELIGIÖSES_HEILIGTUM_THEMING_BONUS_HELP</ThemingBonusHelp>
+	</Row>
+
+
+
+	<!--NATIONALER_SHRINE-->
+	<Row>
+		<Type>BUILDING_NATIONALER_SHRINE</Type>
+		<BuildingClass>BUILDINGCLASS_NATIONALER_SHRINE</BuildingClass>
+		<Cost>450</Cost>
+		<NumCityCostMod>30</NumCityCostMod>
+		<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
+		<NukeImmune>true</NukeImmune>
+		<Description>TXT_KEY_BUILDING_NATIONALER_SHRINE</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_NATIONALER_SHRINE_PEDIA</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_NATIONALER_SHRINE_STRATEGY</Strategy>
+		<Help>TXT_KEY_BUILDING_NATIONALER_SHRINE_HELP</Help>
+		<ArtDefineTag>MONASTERY</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<IconAtlas>GOT_ATLAS_3</IconAtlas>
+		<PortraitIndex>28</PortraitIndex>
+	</Row>
+
+
+	<!--Wonders-->
+
+	<!--EXODUS-->
+	<Row>
+		<Type>BUILDING_EXODUS</Type>
+		<BuildingClass>BUILDINGCLASS_EXODUS</BuildingClass>
+		<Description>TXT_KEY_BUILDING_EXODUS</Description>
+		<Help>TXT_KEY_WONDER_EXODUS_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_EXODUS_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_EXODUS_QUOTE</Quote>
+		<Cost>325</Cost>
+		<Hill>true</Hill>
+		<!--EXODUS-->
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<PolicyBranchType>POLICY_BRANCH_PIETY</PolicyBranchType>
+		<PrereqTech>TECH_MYSTICISM</PrereqTech>
+		<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>TECH_ATLAS_3</IconAtlas>
+		<PortraitIndex>3</PortraitIndex>
+		<ArtDefineTag>TEMPLE</ArtDefineTag>
+		<DisplayPosition>3</DisplayPosition>
+	</Row>
+
+
+
+	<!--RUSHMORE-->
+	<Row>
+		<Type>BUILDING_DOGESPALACE</Type>
+		<BuildingClass>BUILDINGCLASS_DOGESPALACE</BuildingClass>
+		<Cost>800</Cost>
+		<PrereqTech>TECH_COMPASS</PrereqTech>
+		<Help>TXT_KEY_WONDER_DOGESPALACE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_DOGESPALACE</Description>
+		<Civilopedia>TXT_KEY_WONDER_DOGESPALACE_DESC</Civilopedia>
+		<Quote>TXT_KEY_WONDER_DOGESPALACE_QUOTE</Quote>
+		<ArtDefineTag>NONE</ArtDefineTag>
+		<MaxStartEra>ERA_MEDIEVAL</MaxStartEra>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<Water>true</Water>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>10</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>JFDBUILDINGATLAS</IconAtlas>
+		<PortraitIndex>9</PortraitIndex>
+		<NumTradeRouteBonus>2</NumTradeRouteBonus>
+		<TradeRouteLandGoldBonus>50</TradeRouteLandGoldBonus>
+		<TradeRouteSeaGoldBonus>50</TradeRouteSeaGoldBonus>
+		<WonderSplashImage>DogesPalaceSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<WonderSplashAudio>NONE</WonderSplashAudio>
+	</Row>
+
+
+	<!--WARTBURG-->
+	<Row>
+		<Type>BUILDING_WARTBURG</Type>
+		<BuildingClass>BUILDINGCLASS_WARTBURG</BuildingClass>
+		<Description>TXT_KEY_BUILDING_WARTBURG</Description>
+		<Help>TXT_KEY_WONDER_WARTBURG_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_WARTBURG_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_WARTBURG_QUOTE</Quote>
+		<Cost>900</Cost>
+		<PrereqTech>TECH_CHIVALRY</PrereqTech>
+		<PolicyBranchType>POLICY_BRANCH_PIETY</PolicyBranchType>
+		<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>3</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<FreePolicies>1</FreePolicies>
+		<Hill>true</Hill>
+		<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
+		<GreatWorkCount>2</GreatWorkCount>
+		<IconAtlas>BW_ATLAS_WARTBURG</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashImage>WARTBURG_splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<ArtDefineTag>WARTBURG </ArtDefineTag>
+		<DisplayPosition>2</DisplayPosition>
+		<WonderSplashAudio>AS2D_WONDER_SPEECH_WARTBURG</WonderSplashAudio>
+	</Row>
+
+
+
+	<!--JELLING-->
+	<Row>
+		<Type>BUILDING_JELLING</Type>
+		<BuildingClass>BUILDINGCLASS_JELLING</BuildingClass>
+		<Cost>250</Cost>
+		<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+		<Help>TXT_KEY_WONDER_JELLINGE_HELP</Help>
+		<Description>TXT_KEY_BUILDING_JELLING</Description>
+		<Civilopedia>TXT_KEY_WONDER_JELLING_DESC</Civilopedia>
+		<Quote>TXT_KEY_WONDER_JELLING_QUOTE</Quote>
+		<ArtDefineTag>NONE</ArtDefineTag>
+		<MaxStartEra>ERA_MEDIEVAL</MaxStartEra>
+		<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<GoldenAge>true</GoldenAge>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>10</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>SCANDANAVIANWONDERS</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashImage>JellingStonesSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<WonderSplashAudio>NONE</WonderSplashAudio>
+	</Row>
+
+
+
+	<!--BAMIYAN-->
+	<Row>
+		<Type>BUILDING_BAMIYAN</Type>
+		<BuildingClass>BUILDINGCLASS_BAMIYAN</BuildingClass>
+		<Description>TXT_KEY_BUILDING_BAMIYAN</Description>
+		<Help>TXT_KEY_WONDER_BAMIYAN_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_BAMIYAN_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_BAMIYAN_QUOTE</Quote>
+		<Cost>875</Cost>
+		<PrereqTech>TECH_ENGINEERING</PrereqTech>
+		<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<FreePromotion>PROMOTION_BAMIYAN</FreePromotion>
+		<NearbyTerrainRequired>TERRAIN_DESERT</NearbyTerrainRequired>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>BW_ATLAS_BAMIYAN</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashImage>BAMIYAN_splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+	</Row>
+
+	<!--ISHTAR-->
+	<Row>
+		<Type>BUILDING_ISHTAR</Type>
+		<BuildingClass>BUILDINGCLASS_ISHTAR</BuildingClass>
+		<Description>TXT_KEY_BUILDING_ISHTAR</Description>
+		<Help>TXT_KEY_WONDER_ISHTAR_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_ISHTAR_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_ISHTAR_QUOTE</Quote>
+		<Cost>750</Cost>
+		<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+		<MaxStartEra>ERA_MEDIEVAL</MaxStartEra>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<AllowsRangeStrike>true</AllowsRangeStrike>
+		<Defense>1200</Defense>
+		<GlobalDefenseMod>25</GlobalDefenseMod>
+		<IconAtlas>BW_ATLAS_ISHTAR</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashImage>ISHTAR_splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>R,B</WonderSplashAnchor>
+		<ArtDefineTag>ISHTAR GATE</ArtDefineTag>
+		<DisplayPosition>2</DisplayPosition>
+		<WonderSplashAudio>AS2D_WONDER_SPEECH_ISHTAR_GATE</WonderSplashAudio>
+	</Row>
+
+
+
+	<!--CAPITOL-->
+	<Row>
+		<Type>BUILDING_CAPITOL</Type>
+		<BuildingClass>BUILDINGCLASS_CAPITOL</BuildingClass>
+		<Cost>800</Cost>
+		<PrereqTech>TECH_RIFLING</PrereqTech>
+		<Help>TXT_KEY_WONDER_CAPITOL_HELP</Help>
+		<Description>TXT_KEY_BUILDING_CAPITOL</Description>
+		<Civilopedia>TXT_KEY_WONDER_CAPITOL_DESC</Civilopedia>
+		<Quote>TXT_KEY_WONDER_CAPITOL_QUOTE</Quote>
+		<ArtDefineTag>NONE</ArtDefineTag>
+		<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<WonderProductionModifier>20</WonderProductionModifier>
+		<FreePolicies>1</FreePolicies>
+		<MinAreaSize>10</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>JFDBUILDINGATLAS</IconAtlas>
+		<PortraitIndex>3</PortraitIndex>
+		<WonderSplashImage>WhiteHouseSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<WonderSplashAudio>NONE</WonderSplashAudio>
+	</Row>
+
+	<!--VATICAN-->
+	<Row>
+		<Type>BUILDING_VATICAN</Type>
+		<BuildingClass>BUILDINGCLASS_VATICAN</BuildingClass>
+		<Description>TXT_KEY_BUILDING_VATICAN</Description>
+		<Help>TXT_KEY_WONDER_VATICAN_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_VATICAN_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_VATICAN_QUOTE</Quote>
+		<Cost>1800</Cost>
+		<!--<PolicyBranchType>POLICY_BRANCH_PIETY</PolicyBranchType>-->
+		<PrereqTech>TECH_FUNDAMENTALISM</PrereqTech>
+		<MaxStartEra>ERA_INDUSTRIAL</MaxStartEra>
+		<SpecialistCount>2</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<!--<FreeBuildingThisCity>BUILDINGCLASS_KIRCHE</FreeBuildingThisCity>-->
+		<IconAtlas>ICON_GOT_3</IconAtlas>
+		<PortraitIndex>28</PortraitIndex>
+		<WonderSplashImage>WonderConceptApostolic.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+	</Row>
+
+
+	<!--KARNAK-->
+	<Row>
+		<Type>BUILDING_KARNAK</Type>
+		<BuildingClass>BUILDINGCLASS_KARNAK</BuildingClass>
+		<Description>TXT_KEY_BUILDING_KARNAK</Description>
+		<Help>TXT_KEY_WONDER_KARNAK_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_KARNAK_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_KARNAK_QUOTE</Quote>
+		<Cost>280</Cost>
+		<PrereqTech>TECH_CALENDAR</PrereqTech>
+		<MaxStartEra>ERA_CLASSICAL</MaxStartEra>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<FreeBuildingThisCity>BUILDINGCLASS_TEMPLE</FreeBuildingThisCity>
+		<NearbyTerrainRequired>TERRAIN_DESERT</NearbyTerrainRequired>
+		<IconAtlas>BW_ATLAS_KARNAK</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashImage>KARNAK_splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<ArtDefineTag>KARNAK </ArtDefineTag>
+		<DisplayPosition>2</DisplayPosition>
+		<WonderSplashAudio>AS2D_WONDER_SPEECH_KARNAK</WonderSplashAudio>
+	</Row>
+
+	<!--KASHI-->
+	<Row>
+		<Type>BUILDING_KASHI</Type>
+		<BuildingClass>BUILDINGCLASS_KASHI</BuildingClass>
+		<Cost>576</Cost>
+		<!--<PolicyBranchType>POLICY_BRANCH_PIETY</PolicyBranchType>-->
+		<PrereqTech>TECH_POLYTHEISM</PrereqTech>
+		<Help>TXT_KEY_WONDER_KASHI_HELP</Help>
+		<Description>TXT_KEY_BUILDING_KASHI</Description>
+		<Civilopedia>TXT_KEY_WONDER_KASHI_DESC</Civilopedia>
+		<Quote>TXT_KEY_WONDER_KASHI_QUOTE</Quote>
+		<ArtDefineTag>NONE</ArtDefineTag>
+		<MaxStartEra>ERA_MEDIEVAL</MaxStartEra>
+		<SpecialistCount>1</SpecialistCount>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>1</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<Happiness>2</Happiness>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>10</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>JFDBUILDINGATLAS</IconAtlas>
+		<PortraitIndex>7</PortraitIndex>
+		<WonderSplashImage>KashiVishwanathSplash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<WonderSplashAudio>NONE</WonderSplashAudio>
+	</Row>
+	<!--LESHAN-->
+	<Row>
+		<Type>BUILDING_LESHAN</Type>
+		<BuildingClass>BUILDINGCLASS_LESHAN</BuildingClass>
+		<Description>TXT_KEY_BUILDING_LESHAN</Description>
+		<Help>TXT_KEY_WONDER_LESHAN_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_LESHAN_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_LESHAN_QUOTE</Quote>
+		<Cost>875</Cost>
+		<PolicyBranchType>POLICY_BRANCH_AESTHETICS</PolicyBranchType>
+		<PrereqTech>TECH_STEEL</PrereqTech>
+		<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<River>True</River>
+		<HappinessPerXPolicies>3</HappinessPerXPolicies>
+		<UnmoddedHappiness>6</UnmoddedHappiness>
+		<IconAtlas>BW_ATLAS_LESHAN</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashImage>LESHAN_splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+		<ArtDefineTag>LESHAN</ArtDefineTag>
+		<DisplayPosition>2</DisplayPosition>
+		<WonderSplashAudio>AS2D_WONDER_SPEECH_LESHAN</WonderSplashAudio>
+	</Row>
+
+	<!--DOME-->
+	<Row>
+		<Type>BUILDING_DOME</Type>
+		<BuildingClass>BUILDINGCLASS_DOME</BuildingClass>
+		<Description>TXT_KEY_BUILDING_DOME</Description>
+		<Help>TXT_KEY_WONDER_DOME_HELP</Help>
+		<Civilopedia>TXT_KEY_WONDER_DOME_PEDIA</Civilopedia>
+		<Quote>TXT_KEY_WONDER_DOME_QUOTE</Quote>
+		<Cost>765</Cost>
+		<PrereqTech>TECH_THEOLOGY</PrereqTech>
+		<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+		<SpecialistType>SPECIALIST_PRIEST</SpecialistType>
+		<GreatPeopleRateChange>2</GreatPeopleRateChange>
+		<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+		<GreatWorkCount>2</GreatWorkCount>
+		<NukeImmune>true</NukeImmune>
+		<HurryCostModifier>-1</HurryCostModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<ConquestProb>100</ConquestProb>
+		<IconAtlas>BW_ATLAS_DOME</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<WonderSplashImage>DOME_splash.dds</WonderSplashImage>
+		<WonderSplashAnchor>L,B</WonderSplashAnchor>
+	</Row>
+	<!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

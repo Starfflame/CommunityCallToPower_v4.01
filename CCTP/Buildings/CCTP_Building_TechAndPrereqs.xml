@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/9/2013 12:06:11 PM -->
+<GameData>
+	<!--TechAndPrereqs-->
+	<Building_TechAndPrereqs>
+	 <Row>
+		<BuildingType>BUILDING_BROOKLYN</BuildingType>
+		<TechType>TECH_REPLACEABLE_PARTS</TechType>
+	</Row>
+	</Building_TechAndPrereqs>
+  <!--Have a nice Day:=)-->
+</GameData>

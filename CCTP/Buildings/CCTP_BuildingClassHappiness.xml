@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Gilgamesch on 9/8/2013 6:39:14 PM -->
+<GameData>
+  <!--Building_BuildingClassHappiness-->
+	<Building_BuildingClassHappiness>
+		<Row>
+			<BuildingType>BUILDING_TETII</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_COURTHOUSE</BuildingClassType>
+			<Happiness>1</Happiness>
+		</Row>
+	</Building_BuildingClassHappiness>
+ 
+	<Policy_BuildingClassHappiness>
+		<Row>
+			<PolicyType>POLICY_COMMERCE</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_ROCKEFELLER</BuildingClassType>
+			<Happiness>5</Happiness>
+		</Row>
+	</Policy_BuildingClassHappiness>
+	
+	<!-- <Policy_BuildingClassYieldChanges>
+		<Row>
+			<PolicyType>POLICY_FREEDOM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_ROCKEFELLER</BuildingClassType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<YieldChange>20</YieldChange>
+		</Row>
+	</Policy_BuildingClassYieldChanges>
+	Have a nice Day:=) -->
+</GameData>

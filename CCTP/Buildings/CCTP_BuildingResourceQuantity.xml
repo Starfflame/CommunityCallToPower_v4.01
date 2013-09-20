@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 8:58:25 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+	<Building_ResourceQuantity>
+		<!-- Buildings provide Beer-->
+		<Row>
+			<BuildingType>BUILDING_BREWERY</BuildingType>
+			<ResourceType>RESOURCE_BEER</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Buildings provide OLIVE_OIL-->
+		<Row>
+			<BuildingType>BUILDING_OLIVE_PRESS</BuildingType>
+			<ResourceType>RESOURCE_OLIVE_OIL</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Buildings provide BLOCKBUSTER-->
+		<Row>
+			<BuildingType>BUILDING_HOLLYWOOD</BuildingType>
+			<ResourceType>RESOURCE_BLOCKBUSTER</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<!-- Buildings provide Electricity-->
+		<Row>
+			<BuildingType>BUILDING_MEGA_DAM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>16</Quantity>
+		</Row>
+		<!--1. MEGA_DAM-->
+
+		<Row>
+			<BuildingType>BUILDING_EDISON_LAB</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		<!--2. EDISON_LAB-->
+
+
+		<Row>
+			<BuildingType>BUILDING_HYDRO_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+		</Row>
+
+		<!--3. HYDRO_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_GRID_ENERGY_STORAGE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>10</Quantity>
+		</Row>
+
+		<!--4. GRID_ENERGY_STORAGE-->
+		<Row>
+			<BuildingType>BUILDING_NUCLEAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>14</Quantity>
+		</Row>
+		<!--5. NUCLEAR_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_FUSION_POWER_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>23</Quantity>
+		</Row>
+		<!--6. FUSION_POWER_PLANT-->
+
+		<Row>
+			<BuildingType>BUILDING_M_THEORY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>20</Quantity>
+		</Row>
+		<!--7. M_THEORY-->
+		<Row>
+			<BuildingType>BUILDING_SOLAR_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>4</Quantity>
+		</Row>
+		
+		<!-- 8. Electricity-->
+		<Row>
+			<BuildingType>BUILDING_KOHLEKRAFTWERK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<!-- Provides Electricity-->
+		<Row>
+			<BuildingType>BUILDING_GEOTHERM</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+			<!-- was 12 -->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SOLARTOWER</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>14</Quantity>
+			<!-- was 20 -->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WINDTURBINEN</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>6</Quantity>
+			<!-- was 8 -->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_YANGTZE</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>10</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OSWINDPARK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>12</Quantity>
+			<!-- was 20 -->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WIEDERAUFBEREITUNGSANLAGE</BuildingType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- -->
+		<Row>
+			<BuildingType>BUILDING_MÜLL_KRAFTWERK</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>8</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GB1</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>15</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LONDON_ARRAY</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>18</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FUSION_POWER_PLANT</BuildingType>
+			<ResourceType>RESOURCE_ELECTRICITY</ResourceType>
+			<Quantity>35</Quantity>
+		</Row>
+		<!-- Provides CLOVES-->
+		<Row>
+			<BuildingType>BUILDING_STONE_TOWN</BuildingType>
+			<ResourceType>RESOURCE_CLOVES</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!-- Provides CHOCOLATE-->
+		<Row>
+			<BuildingType>BUILDING_SCHOKOLADE</BuildingType>
+			<ResourceType>RESOURCE_CHOCOLATE</ResourceType>
+			<Quantity>2</Quantity>
+		</Row>
+		<!-- Provides Furniture-->
+		<Row>
+			<BuildingType>BUILDING_SCHREINER</BuildingType>
+			<ResourceType>RESOURCE_FURNITURE</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+		<!-- Provides Kerosene/Diesel-->
+		<Row>
+			<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+			<ResourceType>RESOURCE_DIESEL</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OIL_REFINERY</BuildingType>
+			<ResourceType>RESOURCE_KEROSENE</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYNTHETIC_PETROL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_DIESEL</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYNTHETIC_PETROL_PLANT</BuildingType>
+			<ResourceType>RESOURCE_KEROSENE</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!--STEEL-->
+		<Row>
+			<BuildingType>BUILDING_STEEL_FOUNDRY</BuildingType>
+			<ResourceType>RESOURCE_STEEL</ResourceType>
+			<Quantity>5</Quantity>
+		</Row>
+		<!--RICE-->
+		<Row>
+			<BuildingType>BUILDING_BANAUE</BuildingType>
+			<ResourceType>RESOURCE_RICE</ResourceType>
+			<Quantity>3</Quantity>
+		</Row>
+		<!--Jevelery-->
+		<Row>
+			<BuildingType>BUILDING_JEWELRY_STORE</BuildingType>
+			<ResourceType>RESOURCE_JEWELRY</ResourceType>
+			<Quantity>1</Quantity>
+		</Row>
+	</Building_ResourceQuantity>
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+  
+</GameData>

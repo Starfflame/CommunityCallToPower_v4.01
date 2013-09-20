@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/2/2013 5:07:22 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+<Technologies>
+	<!--Settler-->
+	<Row>
+		<Type>TECH_CCTP1</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP1_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP1_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP1_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>2</GridX>TechCat
+		<GridY>2</GridY>
+		<TechCat>TECHTREE_LAND</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP1_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	
+</Row>
+	<Row>
+		<Type>TECH_CCTP2</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP2_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP2_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP2_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>0</GridX>
+		<GridY>5</GridY>
+		<TechCat>TECHTREE_LAND</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP2_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_RAW_MATERIALS</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_RAW_MATERIALS_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_RAW_MATERIALS_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_RAW_MATERIALS_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>1</GridX>
+		<GridY>5</GridY>
+		<TechCat>TECHTREE_LAND</TechCat>
+		<Quote>TXT_KEY_TECH_RAW_MATERIALS_QUOTE</Quote>
+		<PortraitIndex>2</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_5</IconAtlas>
+	</Row>
+	<!--Nomad-->
+	<Row>
+		<Type>TECH_NAVAL_TRADING</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_NAVAL_TRADING_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_NAVAL_TRADING_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_NAVAL_TRADING_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>2</GridX>
+		<GridY>2</GridY>
+		<TechCat>TECHTREE_SEA</TechCat>
+		<Quote>TXT_KEY_TECH_NAVAL_TRADING_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<!--SPIRIT-->
+	<Row>
+		<Type>TECH_TECH_LEADERSHIP</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_TECH_LEADERSHIP_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_TECH_LEADERSHIP_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_TECH_LEADERSHIP_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>0</GridX>
+		<GridY>7</GridY>
+		<TechCat>TECHTREE_SPIRIT</TechCat>
+		<Quote>TXT_KEY_TECH_TECH_LEADERSHIP_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_POLYTHEISM</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_POLYTHEISM_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_POLYTHEISM_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_POLYTHEISM_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>1</GridX>
+		<GridY>7</GridY>
+		<TechCat>TECHTREE_SPIRIT</TechCat>
+		<Quote>TXT_KEY_TECH_POLYTHEISM_QUOTE</Quote>
+		<PortraitIndex>0</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_3</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_MONOTHEISM</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_MONOTHEISM_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_MONOTHEISM_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_MONOTHEISM_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>2</GridX>
+		<GridY>6</GridY>
+		<TechCat>TECHTREE_SPIRIT</TechCat>
+		<Quote>TXT_KEY_TECH_MONOTHEISM_QUOTE</Quote>
+		<PortraitIndex>1</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_3</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_CCTP21</Type>
+		<Cost>50</Cost>
+		<Description>TXT_KEY_CCTP21_TITLE</Description>
+		<Civilopedia>TXT_KEY_CCTP21_DESC</Civilopedia>
+		<Help>TXT_KEY_CCTP21_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>1</GridX>
+		<GridY>1</GridY>
+		<TechCat>TECHTREE_SPIRIT</TechCat>
+		<Quote>TXT_KEY_CCTP21_QUOTE</Quote>
+		<PortraitIndex>1</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_3</IconAtlas>
+	</Row>
+	<!--NUMBER THEORY-->
+	<Row>
+		<Type>TECH_CCTP8</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP8_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP8_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP8_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>0</GridX>
+		<GridY>7</GridY>
+		<TechCat>TECHTREE_NUMBERTHEORY</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP8_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_CCTP9</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP9_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP9_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP9_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>1</GridX>
+		<GridY>7</GridY>
+		<TechCat>TECHTREE_NUMBERTHEORY</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP9_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_CCTP10</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP10_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP10_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP10_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>2</GridX>
+		<GridY>3</GridY>
+		<TechCat>TECHTREE_NUMBERTHEORY</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP10_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>	
+	<Row>
+		<Type>TECH_CCTP11</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP11_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP11_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP11_HELP</Help>
+		<Era>ERA_ANCIENT</Era>
+		<Trade>true</Trade>
+		<GridX>2</GridX>
+		<GridY>7</GridY>
+		<TechCat>TECHTREE_NUMBERTHEORY</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP10_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<!--EXOTIC_GOODS-->
+	<Row>
+		<Type>TECH_TOBACCO_TRADING</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_TOBACCO_TRADING_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_TOBACCO_TRADING_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_TOBACCO_TRADING_HELP</Help>
+		<Era>CLASSICAL</Era>
+		<Trade>true</Trade>
+		<GridX>0</GridX>
+		<GridY>4</GridY>
+		<TechCat>TECHTREE_EXOTIC_GOODS</TechCat>
+		<Quote>TXT_KEY_TECH_TOBACCO_TRADING_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	
+	<!--ALPHABET-->
+	<Row>
+		<Type>TECH_CCTP12</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP12_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP12_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP12_HELP</Help>
+		<Era>CLASSICAL</Era>
+		<Trade>true</Trade>
+		<GridX>0</GridX>
+		<GridY>2</GridY>
+		<TechCat>TECHTREE_EXOTIC_GOODS</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP12_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_CCTP13</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP13_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP13_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP13_HELP</Help>
+		<Era>CLASSICAL</Era>
+		<Trade>true</Trade>
+		<GridX>0</GridX>
+		<GridY>4</GridY>
+		<TechCat>TECHTREE_EXOTIC_GOODS</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP13_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<!--Artisans-->
+	<Row>
+		<Type>TECH_CCTP14</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP14_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP14_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP14_HELP</Help>
+		<Era>CLASSICAL</Era>
+		<Trade>true</Trade>
+		<GridX>0</GridX>
+		<GridY>1</GridY>
+		<TechCat>TECHTREE_ARTISANS</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP14_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_CCTP15</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP15_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP15_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP15_HELP</Help>
+		<Era>CLASSICAL</Era>
+		<Trade>true</Trade>
+		<GridX>0</GridX>
+		<GridY>3</GridY>
+		<TechCat>TECHTREE_ARTISANS</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP15_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<!--TECHTREE_MEDIEVAL_UNIVERSITY-->
+	<Row>
+		<Type>TECH_CCTP16</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP16_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP16_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP16_HELP</Help>
+		<Era>MEDIEVAL</Era>
+		<Trade>true</Trade>
+		<GridX>2</GridX>
+		<GridY>6</GridY>
+		<TechCat>TECHTREE_MEDIEVAL_UNIVERSITY</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP16_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<!--TECHTREE_MEDIEVAL_UNIVERSITY-->
+	<Row>
+		<Type>TECH_CCTP17</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP17_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP17_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP17_HELP</Help>
+		<Era>MEDIEVAL</Era>
+		<Trade>true</Trade>
+		<GridX>1</GridX>
+		<GridY>1</GridY>
+		<TechCat>TECHTREE_EMPIRICISM</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP17_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<!--INDUSTRIAL_REVOLUTION-->
+	<Row>
+		<Type>TECH_CCTP18</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP18_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP18_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP18_HELP</Help>
+		<Era>INDUSTRIAL</Era>
+		<Trade>true</Trade>
+		<GridX>2</GridX>
+		<GridY>0</GridY>
+		<TechCat>TECHTREE_INDUSTRIAL_REVOLUTION</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP18_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<!--INDUSTRIAL_REVOLUTION-->
+	<Row>
+		<Type>TECH_CCTP19</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP19_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP19_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP19_HELP</Help>
+		<Era>INDUSTRIAL</Era>
+		<Trade>true</Trade>
+		<GridX>2</GridX>
+		<GridY>7</GridY>
+		<TechCat>TECHTREE_SCIENCE</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP19_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+	<Row>
+		<Type>TECH_CCTP20</Type>
+		<Cost>55</Cost>
+		<Description>TXT_KEY_TECH_CCTP20_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_CCTP20_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_CCTP20_HELP</Help>
+		<Era>INDUSTRIAL</Era>
+		<Trade>true</Trade>
+		<GridX>1</GridX>
+		<GridY>1</GridY>
+		<TechCat>TECHTREE_SCIENCE</TechCat>
+		<Quote>TXT_KEY_TECH_CCTP20_QUOTE</Quote>
+		<PortraitIndex>9</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+	</Row>
+</Technologies>
+	
+ <!-- TODO: Insert table data example here.-->
+<Technology_PrereqTechs>
+<Row>
+	<TechType>TECH_CCTP1</TechType>
+	<PrereqTech>TECH_CALENDAR</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP1</TechType>
+	<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_RAW_MATERIALS</TechType>
+	<PrereqTech>TECH_CCTP2</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_RAW_MATERIALS</TechType>
+	<PrereqTech>TECH_MINING</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_NAVAL_TRADING</TechType>
+	<PrereqTech>TECH_SHIPBUILDING</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_NAVAL_TRADING</TechType>
+	<PrereqTech>TECH_TRADING</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_POLYTHEISM</TechType>
+	<PrereqTech>TECH_TECH_LEADERSHIP</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_MONOTHEISM</TechType>
+	<PrereqTech>TECH_POLYTHEISM</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_MONOTHEISM</TechType>
+	<PrereqTech>TECH_MEDITATION</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP8</TechType>
+	<PrereqTech>TECH_MONOTHEISM</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP9</TechType>
+	<PrereqTech>TECH_CCTP8</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP10</TechType>
+	<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_THE_WHEEL</TechType>
+	<PrereqTech>TECH_RAW_MATERIALS</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_POLYTHEISM</TechType>
+	<PrereqTech>TECH_MYSTICISM</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_MONOTHEISM</TechType>
+	<PrereqTech>TECH_POLYTHEISM</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP11</TechType>
+	<PrereqTech>TECH_CCTP9</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP11</TechType>
+	<PrereqTech>TECH_MATHEMATICS</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP12</TechType>
+	<PrereqTech>TECH_WRITING</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP13</TechType>
+	<PrereqTech>TECH_CCTP12</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP13</TechType>
+	<PrereqTech>TECH_PHILOSOPHY</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP14</TechType>
+	<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP15</TechType>
+	<PrereqTech>TECH_WOODWORKING</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP15</TechType>
+	<PrereqTech>TECH_CCTP14</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP16</TechType>
+	<PrereqTech>TECH_ACOUSTICS</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP16</TechType>
+	<PrereqTech>TECH_THEOLOGY</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP17</TechType>
+	<PrereqTech>TECH_ENGINEERING</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_MACHINERY</TechType>
+	<PrereqTech>TECH_CCTP17</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP19</TechType>
+	<PrereqTech>TECH_ELECTRICITY</PrereqTech>
+</Row>
+<Row>
+	<TechType>TECH_CCTP20</TechType>
+	<PrereqTech>TECH_ARCHAEOLOGY</PrereqTech>
+</Row>
+</Technology_PrereqTechs>
+	
+  <!-- Enter your Game Data here. -->
+	<Technology_Flavors>
+	<Row>
+		<TechType>TECH_NAVAL_TRADING</TechType>
+		<FlavorType>FLAVOR_FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+		<Flavor>30</Flavor>
+	</Row>
+	</Technology_Flavors>
+	
+<Units>
+	<!--New Techtree updates-->
+	<Update>
+		<Set PrereqTech ="TECH_NAVAL_TRADING"/>
+		<Where Type ="CARGO_SHIP"/>
+	</Update>
+</Units>
+	</GameData>
