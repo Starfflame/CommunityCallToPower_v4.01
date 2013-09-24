@@ -33,7 +33,7 @@
 			<Where Tag="TXT_KEY_TECH_PRINTING_PRESS_HELP"/>
 		</Update>
 		<Update>
-			<Set Text="Great War Infantry is significantly stronger than its predecessor, the Rifleman."/>
+			<Set Text="The Great War Infantry unit is significantly stronger than its predecessor, the Rifleman."/>
 			<Where Tag="TXT_KEY_UNIT_GREAT_WAR_INFANTRY_STRATEGY"/>
 		</Update>
 		<Update>
@@ -41,7 +41,7 @@
 			<Where Tag="TXT_KEY_BUILDING_MARKET_STRATEGY"/>
 		</Update>
 		<Update>
-			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Harvest[ENDCOLOR] and the [COLOR_POSITIVE_TEXT]Stonehenge[ENDCOLOR], which boosts [ICON_PEACE] Faith."/>
+			<Set Text="Allows you to build the [COLOR_POSITIVE_TEXT]Harvest[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Stonehenge[ENDCOLOR], which boosts [ICON_PEACE] Faith."/>
 			<Where Tag="TXT_KEY_TECH_CALENDAR_HELP"/>
 		</Update>
 		<!-- Update Mods Menu -->
@@ -115,7 +115,7 @@
 		<Text>Maize, known in some English-speaking countries as corn, is a large grain plant domesticated by indigenous peoples in Mesoamerica in prehistoric times. The leafy stalk produces ears which contain the grain, which are seeds called kernels. Maize kernels are used in cooking as a starch. The Olmec and Mayans cultivated it in numerous varieties throughout Mesoamerica, cooked, ground or processed through nixtamalization. Beginning about 2500 BC, the crop spread through much of the Americas.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_RESOURCE_CORN_HELP">
-		<Text>Maize gives +1 Food</Text>
+		<Text>Maize gives +1 Food.</Text>
 	</Row>
 		<Row Tag="TXT_KEY_RESOURCE_COCONUT">
 		<Text>Coconut</Text>
@@ -124,7 +124,7 @@
 		<Text>Found throughout the tropic and subtropic area, the coconut is known for its great versatility as seen in the many domestic, commercial, and industrial uses of its different parts. Coconuts are part of the daily diet of many people. Coconuts are different from any other fruits because they contain a large quantity of "water" and when immature they are known as tender-nuts or jelly-nuts and may be harvested for drinking. When mature they still contain some water and can be used as seednuts or processed to give oil from the kernel, charcoal from the hard shell and coir from the fibrous husk.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_RESOURCE_COCONUT_HELP">
-		<Text>Versatile foodstuff</Text>
+		<Text>Versatile foodstuff.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_RESOURCE_RUBBER">
 		<Text>Rubber</Text>
@@ -133,7 +133,7 @@
 		<Text>Hevea brasiliensis, the Pará rubber tree, sharinga tree, or, most commonly, the rubber tree, is a tree belonging to the family Euphorbiaceae. It is the most economically important member of the genus Hevea. It is of major economic importance because the milky latex extracted from the tree is the primary source of natural rubber.</Text>
 	</Row>
 	<Row Tag="TXT_KEY_RESOURCE_RUBBER_HELP">
-		<Text>The tree requires a climate with heavy rainfall and without frost.</Text>
+		<Text>Hevea brasiliensis requires a climate with heavy rainfall with no frost.</Text>
 	</Row>
 		<Row Tag="TXT_KEY_RESOURCE_COFFEE">
 		<Text>Coffee</Text>
@@ -226,15 +226,15 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BREWERY_PEDIA</Tag>
-			<Text>A brewery is a dedicated building for the making of beer, though beer can be made at home, and has been for much of beer's history. A company which makes beer is called either a brewery or a brewing company.[NEWLINE][NEWLINE]The diversity of size in breweries is matched by the diversity of processes, degrees of automation, and kinds of beer produced in breweries. Typically a brewery is divided into distinct sections, with each section reserved for one part of the brewing process.</Text>
+			<Text>A brewery is a dedicated building for the making of beer (though beer can be made at home, and has been for much of beer's history), a company which makes beer is either called a brewery or a brewing company.[NEWLINE][NEWLINE]The diversity of size in breweries is matched by the diversity of processes, degrees of automation, and kinds of beer produced in breweries. Typically a brewery is divided into distinct sections, with each section reserved for one part of the brewing process.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BREWERY_HELP</Tag>
-			<Text>Each source of [ICON_RES_SUGAR] Sugar, [ICON_RES_SPICES] Spices, [ICON_RES_CITRUS] Citrus, or [ICON_BARLEY] Barley worked by this City produce +1 [ICON_FOOD] Food.[NEWLINE][NEWLINE]City must have an improved source of one of these resources nearby.</Text>
+			<Text>Each source of [ICON_RES_SUGAR] Sugar, [ICON_RES_SPICES] Spices, [ICON_RES_CITRUS] Citrus, or [ICON_BARLEY] Barley worked by this City produces +1 [ICON_FOOD] Food.[NEWLINE][NEWLINE]City must have an improved source of one of these resources nearby.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BREWERY_STRATEGY</Tag>
-			<Text>The Brewery increases the [ICON_HAPPINESS_1] Happiness in the empire and boost the city's growth by boosting the food output of many resources. It's useful if you want to grow your city.</Text>
+			<Text>The Brewery increases [ICON_HAPPINESS_1] Happiness in the empire and boost the city's growth by boosting the food output of many resources. It's useful if you want to grow your city.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_BUILDING_BURIAL_MOUND</Tag>
