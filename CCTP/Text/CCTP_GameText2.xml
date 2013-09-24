@@ -51,7 +51,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_LANGUAGE_DESC</Tag>
-		<Text>.</Text>
+		<Text>Language is a system of phonemes ordered in a specific manner to communicate to other humans.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_LANGUAGE_HELP</Tag>
@@ -70,7 +70,7 @@
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LEADERSHIP_DESC</Tag>
-			<Text>.</Text>
+			<Text>Leadership in civilization is essential. Without it, civilization could not exist.</Text>
 		</Row>
 		<Row>
 			<Tag>TXT_KEY_TECH_LEADERSHIP_HELP</Tag>
@@ -90,11 +90,11 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_FIRE_DESC</Tag>
-		<Text>.</Text>
+		<Text>Fire is the combustion of flammable materials. Once humans learned to control it, they could use it to cook food and help advance civilization from the stone age.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_FIRE_HELP</Tag>
-		<Text> [COLOR_POSITIVE_TEXT]Fire[ENDCOLOR]  [ICON_PRODUCTION] </Text>
+		<Text>Allows construction of the [COLOR_POSITIVE_TEXT]Bonfire[ENDCOLOR], increasing happiness in your empire.  [ICON_PRODUCTION] </Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_FIRE_QUOTE</Tag>
@@ -108,7 +108,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_SCOUTING_DESC</Tag>
-		<Text>Allowes the building of the Scout unit.</Text>
+		<Text>Allows the building of the Scout unit.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_SCOUTING_HELP</Tag>
@@ -127,7 +127,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_CARAVANS_DESC</Tag>
-		<Text>Grands one free Trade Route and you can now build Caravans and the Mounted Scout, a fast early scouting unit.</Text>
+		<Text>Grants one free Trade Route and you can now build Caravans and the Mounted Scout, a fast early scouting unit.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_CARAVANS_HELP</Tag>
@@ -146,7 +146,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_HUNTING_DESC</Tag>
-		<Text>Allowes you to see ([ICON_DEER) Deer, ([ICON_COW) Cow, and ([ICON_SHEEP) Sheep.</Text>
+		<Text>Allows you to see ([ICON_DEER) Deer, ([ICON_COW) Cow, and ([ICON_SHEEP) Sheep.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_HUNTING_HELP</Tag>
@@ -164,7 +164,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_COPPER_WORKING_DESC</Tag>
-		<Text>Shows Copper on the map, also allowes the construction of the building.</Text>
+		<Text>Shows Copper on the map, also allows the construction of the building.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_COPPER_WORKING_HELP</Tag>
@@ -200,7 +200,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_FOLKLORE_DESC</Tag>
-		<Text>Allowes you to construct the [COLOR_POSITIVE_TEXT]Folklore[ENDCOLOR] wich boost Culture.</Text>
+		<Text>Allows you to construct the [COLOR_POSITIVE_TEXT]Folklore[ENDCOLOR] wich boost Culture.</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_FOLKLORE_HELP</Tag>
@@ -218,7 +218,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_MUMMIFICATION_DESC</Tag>
-		<Text>Allowes the construction of[COLOR_POSITIVE_TEXT]Halicarnoss[ENDCOLOR].</Text>
+		<Text>Allows the construction of[COLOR_POSITIVE_TEXT]Halicarnoss[ENDCOLOR].</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_MUMMIFICATION_HELP</Tag>
@@ -291,7 +291,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_SLAVERY_DESC</Tag>
-		<Text>Allowes the construction of the [COLOR_POSITIVE_TEXT]Working Camp[ENDCOLOR].</Text>
+		<Text>Allows the construction of the [COLOR_POSITIVE_TEXT]Working Camp[ENDCOLOR].</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_SLAVERY_HELP</Tag>
@@ -401,7 +401,7 @@
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_CUNEIFORM_DESC</Tag>
-		<Text>Allowes you to build the [COLOR_POSITIVE_TEXT]Codex Humurabi[ENDCOLOR].</Text>
+		<Text>Allows you to build the [COLOR_POSITIVE_TEXT]Codex Humurabi[ENDCOLOR].</Text>
 	</Row>
 	<Row>
 		<Tag>TXT_KEY_TECH_CUNEIFORM_HELP</Tag>
