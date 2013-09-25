@@ -429,7 +429,6 @@ SELECT									'TECH_RADAR',							'TECH_COMBINED_ARMS'			UNION ALL
 
 --**Stealth and Radar have the same pretech, so changed it above**
 
-SELECT									'TECH_THE_ELECTRON',					'TECH_INDUSTRIAL_PROCESSES'		UNION ALL
 SELECT									'TECH_THE_ELECTRON',					'TECH_ELECTRICITY'				UNION ALL
 SELECT									'TECH_STEALTH',							'TECH_RADAR'					UNION ALL
 SELECT									'TECH_VACCINES',						'TECH_PHARMACEUTICALS'			UNION ALL

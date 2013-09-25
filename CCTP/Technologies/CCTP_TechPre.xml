@@ -31,6 +31,7 @@
 			<TechType>TECH_THE_WHEEL</TechType>
 			<PrereqTech>TECH_TOOLS</PrereqTech>
 		</Row>
+		
 		<Row>
 			<TechType>TECH_FISH_MARKETS</TechType>
 			<PrereqTech>TECH_SHIPBUILDING</PrereqTech>
@@ -515,6 +516,12 @@
 			<TechType>TECH_MINING</TechType>
 			<PrereqTech>TECH_FIRE</PrereqTech>
 		</Row>
+		<Row>
+			<TechType>TECH_THE_ELECTRON</TechType>
+			<PrereqTech>TECH_ELECTRICITY</TechType>
+		</Row>
+			
+			
 	</Technology_PrereqTechs>
   <!-- Have a nice Day:=)-->
 	
