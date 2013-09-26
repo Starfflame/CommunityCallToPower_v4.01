@@ -1,5 +1,18 @@
 -- Created by Horem 14/9/2012
 -- Drop the existing table
+
+
+-- Moved starting tech to Technologies.sql, got rid of the file this was in. - Starfflame
+
+UPDATE Civilization_FreeTechs
+SET TechType='TECH_LANGUAGE'
+WHERE TechType='TECH_AGRICULTURE';
+
+
+
+
+
+
 DROP TABLE IF EXISTS Technologies;
 -- Create the new Table
 CREATE TABLE Technologies ('ID' integer primary key autoincrement , 
