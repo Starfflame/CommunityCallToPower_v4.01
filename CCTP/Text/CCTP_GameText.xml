@@ -9063,22 +9063,6 @@
 			<Text>[NEWLINE][TAB][TAB]"The path of least resistance has been replaced by the path of pretty much no resistance."[NEWLINE][TAB][TAB] - Unknown</Text>
 		</Row>
 		<Row>
-			<Tag>TXT_KEY_TECH_THE_ELECTRON_TITLE</Tag>
-			<Text>The Electron ([ICON_RESEARCH])  </Text>
-		</Row>
-		<Row>
-			<Tag>TXT_KEY_TECH_THE_ELECTRON_DESC</Tag>
-			<Text>The Electron was a discovery made in the late 1800s that, for the first time, proves the existence of subatomic particles.</Text>
-		</Row>
-		<Row>
-			<Tag>TXT_KEY_TECH_THE_ELECTRON_HELP</Tag>
-			<Text>Does jack shit right now.</Text>
-		</Row>
-		<Row>
-			<Tag>TXT_KEY_TECH_THE_ELECTRON_QUOTE</Tag>
-			<Text>[NEWLINE][TAB][TAB]"This does jack shit right now."[NEWLINE][TAB][TAB] - Starfflame</Text>
-		</Row>
-		<Row>
 			<Tag>TXT_KEY_TECH_CLONING_TITLE</Tag>
 			<Text>Cloning ([ICON_RESEARCH])  </Text>
 		</Row>
