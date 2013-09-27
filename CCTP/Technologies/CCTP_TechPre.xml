@@ -491,7 +491,6 @@
 			<TechType>TECH_AVIATION</TechType>
 			<PrereqTech>TECH_BOMBARDMENT</PrereqTech>
 		</Row>
-		
 		<Row>
 			<TechType>TECH_CLERGY</TechType>
 			<PrereqTech>TECH_PRIESTHOOD</PrereqTech>
